@@ -1,6 +1,9 @@
 ---
 layout: home
-permalink: /articles/index.html
-title: "Articles"
-tags: [blog, graphic design]
+permalink: /essays/index.html
+title: Essays
+tags:
+  - blog
+  - graphic design
+published: true
 ---
