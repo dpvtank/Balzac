@@ -1,20 +1,20 @@
-title:            Balzac
-tagline:          A beautiful theme.
-description:      Describe your website.
-canonical: http://jekyll.gtat.me
+title:            Dhawal Tank
+tagline:          Dharmic Growth
+description:      The inner life of makers, entrepreneurs and makers.
+canonical: https://dpvtank.github.io/
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Dhawal Tank
   avatar:         avatar.png
   bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "Buffalo, NY"
+  email:          dtank@dtank.co
+  twitter:        dtankco
+  github:         
+  instagram:      
+  dribbble:       
+  disqus:         
+  location:       "Los Angeles, CA"
   # Plug in your disqus shortname!
 
 tools:
@@ -30,15 +30,12 @@ opengraph:
 links:
   - title: About
     url: /about
-  - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
-    external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
-    external: true
+  - title: Essays
+    url: /essays
+    external: false
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Los_Angeles
 future:      true
 highlighter: pygments
 markdown:    kramdown
