@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Towards A More Dharma Centered World
 tags:
   - Jekyll
@@ -33,5 +33,3 @@ The Future of Work: This was the seminal essay that got me a free trip to Switze
 The President and the Swami: This is a remarkable story of a world leader using profound teachings of a Swami to change the way he led a country, and who became the most respected and loved President for a billion people.
 
 The Schoolteacher’s Lessons: An exploration of the hidden lessons we learn in school and why it shapes how we act in much of our lives.
-
-
