@@ -20,7 +20,7 @@ Each week, I send out 1 email for leaders, entrepreneurs, makers, artists, teach
 
 I believe that brain food alone cannot nourish life. Let's have a heart to heart.
 
-<iframe src="https://dtank.substack.com/embed" width="480" height="320" style="border:1px solid #EEE;" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://dtank.substack.com/embed" width="480" height="320" frameborder="0" scrolling="no"></iframe>
 
 ## Popular Articles
 
