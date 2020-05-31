@@ -26,9 +26,6 @@ I consult and work with a variety of non-profits as well. Along with my work for
 
 I currently live in California, and am looking for my next big opportunity. Get in touch with me <a href="https://dtank.co/contact-me">here </a>for your needs.
 
-</div>
-</div>
-
 Partial list of clients/employers include: <a href="http://consolve.com">Consolve</a>, <a href="http://tuiopay.com">TUIO</a>, <a href="http://fleetrover.com">FleetRover</a>, <a href="http://mythicmarkets.com">Mythic Markets</a>, <a href="http://eboundcanada.org">eBound</a>, <a href="http://threegood.com">Three Good</a>, <a href="http://starfield.ca">Starfield</a>, <a href="http://naks.us">NAKS</a>, <a href="http://mergingmedia.com">Merging Media</a>, <a href="http://ups.com">UPS</a>, <a href="http://bell.ca">Bell</a>, and more.
 
 <h1>Biography</h1>
@@ -55,7 +52,8 @@ I was caught in a whirlwind of confusion. So, I did the only sensible thing poss
 
 Over many months, he taught me. Through service and meditation, I glimpsed my true self as being sat-chit-ᾶnand: filled with consciousness, truth, and bliss—an eternal being here to grow, learn, and contribute. My life's work was meant to be a gift and of service to others. Somehow, in the process of trying to "prove myself" to the world, I had forgotten that. No wonder I felt so disconnected. He reminded me of this truth. I had to bring this to my life, and make my life about serving others.
 
-<blockquote>"In the Joy of Others Lies Our Own"- Pramukh Swamiji</blockquote>
+<blockquote>"In the Joy of Others Lies Our Own" 
+  Pramukh Swamiji</blockquote>
 
 I also met many others at this ashram. They were engineers, doctors, and lawyers. They were Harvard and Oxford grads. And yet, so many of these outwardly successful people had given it all up to take up the monastic order. Their stories helped me appreciate the meaning of a well-lived life. They became monks to be of service to a higher spiritual order and it became clear that I would not find satisfaction either unless I centered my career on serving others.
 
@@ -89,15 +87,15 @@ Currently (Dec 2019), I've lead Sales and Marketing at <a href="http://tuiopay.c
 
 <h2>My Contact Information</h2>
 
-You can contact me via email at dtank at dtank dot co or follow me on <a href="http://twitter.com/dpvtank">Twitter</a>.
+You can contact me via email at dtank at dtank dot co or follow me on <a href="http://twitter.com/dtankco">Twitter</a>.
 
 <h2>Colophon</h2>
 
-My website is built using <a href="http://wordpress.org">Wordpress</a> 5.3 (self-hosted). My theme is <a href="http://theme.co/x">X</a>. All design/customization work is done by me. Analytics are run by <a href="https://matomo.org/">Matomo</a> (self-hosted and anonymized).
+My website is built using <a href="https://jekyllrb.com/">Jekyll</a> hosted on [GitHub](https://github.com). My theme is Balzac. All design/customization work is done by me. 
 
-My body text font is <a href="https://fonts.google.com/specimen/Open+Sans">Open Sans</a>. Titles are <a href="https://fonts.google.com/specimen/Merriweather">Merriweather</a>. Photos are usually from <a href="http://unsplash.com">Unsplash</a>.
+Photos are usually from <a href="http://unsplash.com">Unsplash</a>.
 
-My site and domain hosting is by <a href="http://namecheap.com">Namecheap</a>. Email delivery is done by <a href="http://mailchimp.com">Mailchimp.</a>
+Email delivery is done by <a href="http://substack.com">Substack.</a>
 
 <h2>Disclaimer</h2>
 
