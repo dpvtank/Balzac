@@ -10,6 +10,12 @@ tags:
 image:
   feature: null
 published: true
+description: >-
+  More than there, there is a disconnect between business & people. Leadership
+  and staff. Parents from their kids. What we need is a Dharmic Lens again to
+  remake our businesses, societies, & families. It is a millennia old way of
+  viewing ourselves, the people around us, and a way to see, think and live in
+  this world.
 ---
 
 More than there, there's a disconnect between business & people. Leadership and staff. Parents from their kids.
