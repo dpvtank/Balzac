@@ -4,8 +4,6 @@ layout: post-no-feature
 title: The President and The Swami
 ---
 
-[](https://i1.wp.com/cdn.substack.com/image/fetch/c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6bb87080-0585-491d-9801-a693fa789c64_1000x699.jpeg?ssl=1)
-
 It was a cold November evening in London. The sun had started to set by 4 PM.
 
 Our days would start at 8 AM when the sun was barely visible. By the time the day would end, it would be dark again.
@@ -156,10 +154,6 @@ Since that moment, his work became to talk about this vision about how to manage
 
 It was his experiences with the great Hindu teacher Pramukh Swami Maharaj that brought him this realization.
 
-[](https://i2.wp.com/cdn.substack.com/image/fetch/c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc70a9303-3f5b-4055-91cb-a3112e1a4b68_1920x1200.jpeg?ssl=1)
-
-Pramukh Swami Maharaj (left) with Dr. APJ Abdul Kalam (right)
-
 The outcome of this?
 
 He wrote in his final book, Transcendence:
@@ -182,8 +176,6 @@ grip on my hand ‘Kalam, go and tell everyone that the power that would
 lead us to eternal victory amid these struggles is the power of good 
 within us…The vision would be greater than any other goal ever aspired 
 to by humanity.’ “
-
-[](https://i0.wp.com/cdn.substack.com/image/fetch/c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F14e025a6-a2f1-4e09-bb3d-7126871909ce_750x471.png?ssl=1)
 
 This is what we need more than ever right now. It is not an abstract aspirational aim, but a real state to cultivate.
 
