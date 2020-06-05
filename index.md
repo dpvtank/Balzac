@@ -32,9 +32,9 @@ The President and the Swami: This is a remarkable story of a world leader using 
 
 The Schoolteacher’s Lessons: An exploration of the hidden lessons we learn in school and why it shapes how we act in much of our lives.
 
-Popular Resources
+## Popular Resources
 
-[The Principles of Organizational Breakthroughs:A Practical Guide for Leaders](https://www.scribd.com/document/462485051/Principles-of-Breakthrough-A-Practical-Guide-for-Leaders)
+[The Principles of Organizational Breakthroughs:A Practical Guide for Leaders](https://www.slideshare.net/dpvtank/principles-of-breakthrough-a-practical-guide-for-leaders)
 
 These Principles are distilled down based on the best practices of the most effective executives, consultants, and leaders in the world. They are just as applicable to marketing, sales, operations, as they do to human problems. You will find the definitions here will guide your thinking No matter how complex, immediate, or aggravating the challenge, this proven set of Principles can be applied to solve it. They are tested in the real world not just by me but by the hundreds of professionals who have created massive breakthroughs in their organizations through it. Don’t let their simplicity fool you. If they seem like common sense, ask yourself: *have I applied this?*
 
