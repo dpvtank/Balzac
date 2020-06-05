@@ -4,8 +4,6 @@ title: The Schoolteacher's Lesson & Choosing Yourself
 permalink: /the-schoolteachers-lesson
 layout: post-no-feature
 ---
-# The Schoolteacher’s Lessons and Choosing Yourself
-
 We wait too long for others to choose us. We wait for the right 
 schools, universities, employers, partners to choose us. We wait for 
 someone else to give us permission to do what we really want to do. To 
