@@ -2,8 +2,9 @@
 published: true
 title: The Future of Work
 layout: post-no-feature
-date: {}
+date: 2018-05-03T00:00:00.000Z
 comments: true
+description: null
 ---
 
 
