@@ -4,8 +4,6 @@ layout: post-no-feature
 title: The President and The Swami
 ---
 
-# The President and The Swami
-
 [](https://i1.wp.com/cdn.substack.com/image/fetch/c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6bb87080-0585-491d-9801-a693fa789c64_1000x699.jpeg?ssl=1)
 
 It was a cold November evening in London. The sun had started to set by 4 PM.
