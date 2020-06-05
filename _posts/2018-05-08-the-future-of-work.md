@@ -1,8 +1,9 @@
 ---
 published: true
 title: The Future of Work
-layout: post
+layout: post-no-feature
 date: 2018-05-08T00:00:00.000Z
+comments: true
 ---
 
 
