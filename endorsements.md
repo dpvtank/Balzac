@@ -2,6 +2,7 @@
 title: Endorsements & References
 published: true
 layout: page
+permalink: /endorsements
 ---
 An abridged collection of testimonials and endorsements of business owners and CEOs about what it is like to work with me
 
