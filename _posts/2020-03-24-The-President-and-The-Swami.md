@@ -1,6 +1,6 @@
 ---
 published: true
-layout: post-no-feautre
+layout: post-no-feature
 title: The President and The Swami
 ---
 
