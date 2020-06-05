@@ -1,12 +1,6 @@
 ---
 layout: page
 title: Towards A More Dharma Centered World
-tags:
-  - Jekyll
-  - theme
-  - responsive
-  - blog
-  - template
 image:
   feature: null
 published: true
@@ -26,7 +20,7 @@ Each week, I send out 1 email for leaders, entrepreneurs, makers, artists, teach
 
 I believe that brain food alone cannot nourish life. Let's have a heart to heart.
 
-<iframe src="https://dtank.substack.com/embed" width="480" height="320" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://dtank.substack.com/embed" width="480" height="320" frameborder="0" scrolling="no" style="margin-left:auto; margin-right:auto; display:block”></iframe>
 
 ## Popular Articles
 
