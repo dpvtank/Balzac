@@ -34,6 +34,9 @@ links:
   - title: Essays
     url: /essays
     external: false
+  - title: Recommendations
+    url: /recommendations
+    external: false
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Los_Angeles
