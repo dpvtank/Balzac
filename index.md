@@ -31,3 +31,29 @@ The Future of Work: This was the seminal essay that got me a free trip to Switze
 The President and the Swami: This is a remarkable story of a world leader using profound teachings of a Swami to change the way he led a country, and who became the most respected and loved President for a billion people.
 
 The Schoolteacher’s Lessons: An exploration of the hidden lessons we learn in school and why it shapes how we act in much of our lives.
+
+Popular Resources
+
+[The Principles of Organizational Breakthroughs:A Practical Guide for Leaders](https://www.scribd.com/document/462485051/Principles-of-Breakthrough-A-Practical-Guide-for-Leaders)
+
+These Principles are distilled down based on the best practices of the most effective executives, consultants, and leaders in the world. They are just as applicable to marketing, sales, operations, as they do to human problems. You will find the definitions here will guide your thinking No matter how complex, immediate, or aggravating the challenge, this proven set of Principles can be applied to solve it. They are tested in the real world not just by me but by the hundreds of professionals who have created massive breakthroughs in their organizations through it. Don’t let their simplicity fool you. If they seem like common sense, ask yourself: *have I applied this?*
+
+[The Definitive Book of Small Business Marketing & Sales](https://dtank.co/marketing-book/)
+
+This is a long yet immediately applicable guide for small businesses that want to grow their business in low cost and effective ways. It is 10,000+ words of pure actionable insight delivered in a structured way.
+
+## About Me
+
+By day, my primary work is in sales, customer success, and strategy. I’ve spent 6+ years doing sales, customer success, and marketing in Fortune 500 companies as well as startups. I also consult with and advise startups to do the same. You can see a more professional breakdown of my work on [LinkedIn](https://www.linkedin.com/in/dtankco).
+
+In the rest of my time, I write about connection, culture, spirituality, and its application in personal lives, business and organizations.
+
+Partial list of clients/employers include: [Consolve](http://consolve.com), [TUIO](http://tuiopay.com), [FleetRover](http://fleetrover.com), [Mythic Markets](http://mythicmarkets.com), [eBound](http://eboundcanada.org), [Three Good](http://threegood.com), [Starfield](http://starfield.ca), [NAKS](http://naks.us), [Merging Media](http://mergingmedia.com), [UPS](http://ups.com), [Bell](http://bell.ca), and more.
+
+I've co-founded MEDEdX, a media company that creates bite-sized CME content for physicians. I've also founded a private community of 230+ Indian-American healthcare providers nationwide.
+
+I consult and work with a variety of non-profits as well. Along with my work for [BAPS Charities](https://dtank.co/bapscharities.org), I work with NY Times Best Selling author Dr. Michael Greger’s organization [NutritionFacts.org.](http://www.nutritionfacts.org).
+
+I am always looking for a great opportunity. Contact me to join your team as a consultant, adviser, co-founder, or employee. You can reach me at dtank at dtank dot co (not .com!). You can also follow me on [Twitter](https://www.twitter.com/dtankco).
+
+To learn more, you can read [my story](https://dtank.co/about-me/).
