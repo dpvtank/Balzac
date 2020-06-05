@@ -4,7 +4,7 @@ title: The Future of Work
 layout: post-no-feature
 date: 2018-05-03T00:00:00.000Z
 comments: true
-description: During this past week, I had the privilege of being one of the 100 people invited to the <a href="http://symposium.org">St. Gallen Symposium</a> in Switzerland to discuss the Future of Work. The event is an intimate gathering of roughly 600 people: leaders of tomorrow and leaders of today including billionaire entrepreneurs, world leaders, and cutting edge researchers, and brilliant thinkers.
+description: During this past week, I had the privilege of being one of the 100 people invited to the St. Gallen Symposium in Switzerland to discuss the Future of Work. The event is an intimate gathering of roughly 600 people: leaders of tomorrow and leaders of today including billionaire entrepreneurs, world leaders, and cutting edge researchers, and brilliant thinkers.
 ---
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yDJAY5OIarQ?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
