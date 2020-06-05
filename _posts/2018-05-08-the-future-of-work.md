@@ -2,12 +2,12 @@
 published: true
 title: The Future of Work
 layout: post-no-feature
-date: 2018-05-08T00:00:00.000Z
+date: {}
 comments: true
 ---
 
 
-{% youtube yDJAY5OIarQ %}
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yDJAY5OIarQ?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 To qualify for this all expenses trip, more than 1,300 people wrote an essay. I was one of the 100 whose essay and ideas were picked. I wanted to share this essay that discusses what the future of work will be.
 
