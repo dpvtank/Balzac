@@ -26,7 +26,7 @@ I believe that brain food alone cannot nourish life. Let's have a heart to heart
 
 [The Future of Work](/the-future-of-work): This was the seminal essay that got me a free trip to Switzerland at the annual Symposium where political and business leaders meet and make decisions to shape society. This goes into the deep focus on character and spirituality needed in the task of leadership whether you are a salesperson, the leader of a team, organization, or nation.
 
-[The President and the Swami](/the-president-and-the-swami): This is a remarkable story of a world leader using profound teachings of a Swami to change the way he led a country, and who became the most respected and loved President for a billion people.
+[The President and the Swami](/The-President-and-The-Swami): This is a remarkable story of a world leader using profound teachings of a Swami to change the way he led a country, and who became the most respected and loved President for a billion people.
 
 [The Schoolteacher’s Lessons](/the-schoolteachers-lesson): An exploration of the hidden lessons we learn in school and why it shapes how we act in much of our lives.
 
@@ -36,7 +36,7 @@ I believe that brain food alone cannot nourish life. Let's have a heart to heart
 
 These Principles are distilled down based on the best practices of the most effective executives, consultants, and leaders in the world. They are just as applicable to marketing, sales, operations, as they do to human problems. You will find the definitions here will guide your thinking No matter how complex, immediate, or aggravating the challenge, this proven set of Principles can be applied to solve it. They are tested in the real world not just by me but by the hundreds of professionals who have created massive breakthroughs in their organizations through it. Don’t let their simplicity fool you. If they seem like common sense, ask yourself: "have I applied this?"
 
-[The Simple Book of Marketing & Sales](/marketing-book/)
+[The Simple Book of Marketing & Sales](/simple-book/)
 
 This is a long yet immediately applicable guide for small businesses that want to grow their business in low cost and effective ways. It is 16,000+ words of pure actionable insight delivered in a structured way.
 
