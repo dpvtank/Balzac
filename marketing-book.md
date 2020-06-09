@@ -146,7 +146,7 @@ to initiate.
 And if you’re willing to not wait any longer and want to get started 
 working with me right away, contact me now to get started. We can setup 
 an initial call where we can discover further the work that needs to be 
-done. No cost for that. You can do it [here](https://dtank.co/contact/).
+done. No cost for that. You can do it [here](https://dtank.co/contact-me/).
 
 ## What to Expect
 
@@ -551,7 +551,7 @@ seminar?)
 If you’re looking to become a trusted educator of the product or 
 service you’re selling, there are also many people who sell pre-packaged
  kits that you can label with your own business’s name to market to your
- customers. If you’re looking for recommendations, contact me [here](https://dhawaltank.com/contact/) with details about your business, industry, and what you’re looking 
+ customers. If you’re looking for recommendations, contact me [here](/contact-me/) with details about your business, industry, and what you’re looking 
 for. I likely can recommend you some resource where you can find the 
 help you need.
 
@@ -1125,7 +1125,7 @@ and business owner to be more effective at running his business. I will
 work to deliver value, and I hope this will also be another factor to 
 help you consider hiring me to consult for your business, or come in to 
 talk with your employees or other organizations that you work with. 
-Please sign up for my email list at dtank.co. I send out 2-3 emails a 
+Please sign up for my email list [here](https://dtank.substack.com). I send out 2-3 emails a 
 month at most with thoughtful medium sized articles.
 
 ### #6: New Offers
@@ -1198,7 +1198,7 @@ At every stage, I am working hard, delivering results, and incrementally
 You can grow your business risk free by working with me. You’re 
 already reading the book, now you can choose to make it come alive in 
 your business by contacting me. There is no obligation when we do an 
-initial conversation. [Contact me today](https://dhawaltank.com/contact/) to setup a time and talk.
+initial conversation. [Contact me today](/contact-me/) to setup a time and talk.
 
 Work to find ways to continuously add greater value and contribution 
 to your customer. It might not even mean selling your products or 
@@ -1331,7 +1331,7 @@ above).
 
 All these strategies are great, but they all fall apart when you get 
 face to face with a customer, or worse–after you make the sale! In the 
-next page, we’ll learn about 2 more super strategies that can make you 
+next section, we’ll learn about 2 more super strategies that can make you 
 sell more and feel good in the process.
 
 ### #9: Holding a Conversation aka Selling!
@@ -1512,7 +1512,7 @@ your customers. Great customer service ties it all together.
 ---
 
 What now? That’s the end of the 10 strategies. There is a way to get 
-all of these pieces running on full power. Learn how in the next page.
+all of these pieces running on full power. Learn how in the next section.
 
 ### Implementation
 
@@ -1625,7 +1625,7 @@ away in the bin then and there.
 
 ---
 
-On the next page, we will learn more about outsourcing a lot of this stuff.
+On the next section, we will learn more about outsourcing a lot of this stuff.
 
 ### Outsourcing
 
@@ -1671,7 +1671,7 @@ having a performance based approach to my pricing. I make most of my
 money when you make money. And if I don’t deliver results, I don’t make 
 money. That’s fair and I believe that’s having real skin in the game.
 
-If you are interested in my services to help you with your marketing and sales, please go on [my contact page](https://dhawaltank.com/contact/) and fill out the form to get started. Even if I don’t have the 
+If you are interested in my services to help you with your marketing and sales, please go on [my contact page](/contact-me/) and fill out the form to get started. Even if I don’t have the 
 bandwidth to work with you directly, I should be able to refer you to 
 other options that I would feel good about.
 
@@ -1684,7 +1684,7 @@ you.
 
 The question of tools is vast. Can I expand this section? Create a 
 supplementary guide? Let me know what kinds of questions you have 
-regarding this and let me know filling out the form [here](https://dhawaltank.com/contact/).
+regarding this and let me know filling out the form [here](/contact/).
 
 Technologies change all the time. But some things are here to stay. 
 Websites will stay, and so will email. If you aren’t following the 
@@ -1695,14 +1695,6 @@ will pay off. A clean website that sells your products and services in a
 not going anytime soon. And direct mail and telephone still work, so 
 write that letter to your customer list, and make those phone calls. 
 They still work.
-
----
-
-What tools were most interesting to learn about? How can you empower 
-your marketing efforts with better tools? What would you like to learn 
-more about?
-
-Share your thoughts, comments, and stories below!
 
 ## Final Thoughts
 
@@ -1763,11 +1755,11 @@ should be profitable, and you should get results from my work.
 
 If you’re interested in growing your business, and have the means and
  ability to scale up over time, and are looking to hire a marketing 
-expert, you can contact me [here](https://dhawaltank.com/contact/) to explore working together. My fees are based on performance, so you 
+expert, you can contact me [here](/contact/) to explore working together. My fees are based on performance, so you 
 risk little when we work together except the hard costs you would have 
 spent on marketing anyways.
 
-Even if you don’t use me, consider hiring someone who gets the concepts discussed above. [Contact me](https://dhawaltank.com/contact/).
+Even if you don’t use me, consider hiring someone who gets the concepts discussed above. [Contact me](/contact-me/).
 
 ## Your Turn
 
