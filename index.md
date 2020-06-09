@@ -24,13 +24,11 @@ I believe that brain food alone cannot nourish life. Let's have a heart to heart
 
 ## Popular Articles
 
-1.How to Lead (Part 1) & How to Lead (Part 2): Discovering these principles was like magic for me and everyone else who’s seriously applied them. The latest business books tells you what leadership is, but few get into how to make that happen. Discovering these principles was completely contrary to what’s popular, which is all about treating prospects, employees, team members and vendors (not to mention family and friends) as objects to push, pull, manipulate, persuade into doing what you want. These principles changed the way I sell, market, and lead.
+[The Future of Work](/the-future-of-work): This was the seminal essay that got me a free trip to Switzerland at the annual Symposium where political and business leaders meet and make decisions to shape society. This goes into the deep focus on character and spirituality needed in the task of leadership whether you are a salesperson, the leader of a team, organization, or nation.
 
-The Future of Work: This was the seminal essay that got me a free trip to Switzerland at the annual Symposium where political and business leaders meet and make decisions to shape society. This goes into the deep focus on character and spirituality needed in the task of leadership whether you are a salesperson, the leader of a team, organization, or nation.
+[The President and the Swami](/the-president-and-the-swami): This is a remarkable story of a world leader using profound teachings of a Swami to change the way he led a country, and who became the most respected and loved President for a billion people.
 
-The President and the Swami: This is a remarkable story of a world leader using profound teachings of a Swami to change the way he led a country, and who became the most respected and loved President for a billion people.
-
-The Schoolteacher’s Lessons: An exploration of the hidden lessons we learn in school and why it shapes how we act in much of our lives.
+[The Schoolteacher’s Lessons](/the-schoolteachers-lesson): An exploration of the hidden lessons we learn in school and why it shapes how we act in much of our lives.
 
 ## Popular Resources
 
