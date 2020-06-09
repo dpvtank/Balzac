@@ -2,7 +2,7 @@
 title: The Simple Book of Sales & Marketing
 Description: Principles, Strategies, and Techniques for Startups and Small Businesses
 published: true
-layout: page
+layout: post-no-feature
 author: Dhawal Tank
 comments: true
 permalink: /simple-book/
