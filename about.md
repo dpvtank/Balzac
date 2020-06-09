@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /about/index.html
+permalink: /about-me/index.html
 title: About Me
 description: 'Dharma in Business, Life, and Society'
 tags: null
