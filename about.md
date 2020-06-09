@@ -1,11 +1,9 @@
 ---
-layout: post
+layout: post-no-feature
 permalink: /about-me/index.html
 title: About Me
 description: 'Dharma in Business, Life, and Society'
 tags: null
-image:
-  feature: soft-trees.jpg
 published: true
 ---
 
