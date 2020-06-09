@@ -5,6 +5,7 @@ published: true
 layout: page
 author: Dhawal Tank
 comments: true
+permalink: /simple-book/
 ---
 
 This book is for the startup founder or small business owner who 
