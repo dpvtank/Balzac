@@ -22,74 +22,9 @@ The content here is based on evergreen principles of effective
 marketing and sales. It will not become stale. There is limited 
 technical jargon talk.
 
-**Table Of Contents**
-
--   [Are You Getting All You Can For Your Business?](https://dtank.co/marketing-book/#1-are-you-getting-all-you-can-for-your-business)
-    
--   [My Story](https://dtank.co/marketing-book/#3-my-story)
-    
--   [What to Expect](https://dtank.co/marketing-book/#3-what-to-expect)
-    
--   [Principles](https://dtank.co/marketing-book/#5-principles)
-    
--   [Principle #1: Defeat Sales and Marketing Resistance!](https://dtank.co/marketing-book/#6-principle-1-defeat-sales-and-marketing-resistance)
-    
--   [Principle #2: Be Valuable to Your Customers](https://dtank.co/marketing-book/#7-principle-2-be-valuable-to-your-customers)
-    
--   [Principle #3: Talk to Your Customers In Their Language](https://dtank.co/marketing-book/#9-principle-3-talk-to-your-customers-in-their-language)
-    
--   [Principle #4: Be Direct (Make an Offer)](https://dtank.co/marketing-book/#10-what-direct-marketing-is)
-    
--   [Principle #5: What Gets Measured Gets Improved](https://dtank.co/marketing-book/#12-what-gets-measured-gets-improved)
-    
--   [Principle #6: Send Your Customer to School](https://dtank.co/marketing-book/#13-sending-your-customer-to-school)
-    
--   [Principle #7: Money Math](https://dtank.co/marketing-book/#15-are-you-throwing-your-money-away)
-    
--   [Strategies](https://dtank.co/marketing-book/#16-strategies)
-    
--   [#1: Market, Message, Medium — in that order](https://dtank.co/marketing-book/#17-market-message-medium)
-    
--   [#2: Referrals: The Fastest, Cheapest, Easiest Way to Grow](https://dtank.co/marketing-book/#18-referrals-the-fastest-cheapest-easiest-way-to-grow)
-    
--   [#3: The Pen is Mightier than the Dollar](https://dtank.co/marketing-book/#20-the-pen-is-mightier-than-the-dollar)
-    
--   [#4: Your Unique Selling Proposition is what moves Customers](https://dtank.co/marketing-book/#21-your-unique-selling-proposition-is-what-moves-customers)
-    
--   [#5: Databases for fun and profit](https://dtank.co/marketing-book/#22-databases-for-fun-and-profit)
-    
--   [#6: New Offers](https://dtank.co/marketing-book/#23-new-offers)
-    
--   [#7: New Markets](https://dtank.co/marketing-book/#24-new-markets)
-    
--   [#8: Different Strokes for Different Folks](https://dtank.co/marketing-book/#25-segmentation)
-    
--   [#9: Holding a Conversation aka Selling!](https://dtank.co/marketing-book/#26-how-to-sell-without-feeling-weird)
-    
--   [#10: Customer Service: The beginning of a relationship](https://dtank.co/marketing-book/#27-customer-service-the-beginning-of-a-relationship)
-    
--   [Implementation](https://dtank.co/marketing-book/#28-implementation)
-    
--   [Tools](https://dtank.co/marketing-book/#29-tools)
-    
--   [Digital](https://dtank.co/marketing-book/#30-digital)
-    
--   [Analog](https://dtank.co/marketing-book/#31-analog)
-    
--   [Outsourcing](https://dtank.co/marketing-book/#32-outsourcing)
-    
--   [Other things?](https://dtank.co/marketing-book/#33-other-things)
-    
--   [Final Thoughts](https://dtank.co/marketing-book/#34-final-thoughts)
-    
--   [Fast-track your success](https://dtank.co/marketing-book/#35-fast-track-your-success)
-    
--   [Your Turn](https://dtank.co/marketing-book/#36-your-turn)
-    
-
 ## Are You Getting All You Can For Your Business?
 
-The world of marketing is more messy and crowded than ever before. 
+The world of sals & marketing is more messy and crowded than ever before. 
 There are new tools, publications, platforms, gimmicks, and formats 
 coming out everyday, and it’s hard to figure out what works and what 
 doesn’t. There are many marketing experts that are all re-selling and 
