@@ -1,11 +1,18 @@
 ---
 layout: post
 title: Post and Feature Image
-description: "In my younger and more vulnerable years my father gave me some advice that I’ve been turning over in my mind ever since."
+description: >-
+  In my younger and more vulnerable years my father gave me some advice that
+  I’ve been turning over in my mind ever since.
 category: articles
-tags: [intro, beginner, jekyll, tutorial]
+tags:
+  - intro
+  - beginner
+  - jekyll
+  - tutorial
 image:
-  feature: "https://farm8.staticflickr.com/7014/6840341477_e49612bc59_o_d.jpg"
+  feature: 'https://farm8.staticflickr.com/7014/6840341477_e49612bc59_o_d.jpg'
+published: false
 ---
 
 “Whenever you feel like criticizing any one,” he told me, “just remember that all the people in this world haven’t had the advantages that you’ve had.”
