@@ -54,4 +54,4 @@ I consult and work with a variety of non-profits as well. Along with my work for
 
 I am always looking for a great opportunity. Contact me to join your team as a consultant, adviser, co-founder, or employee. You can reach me at dtank at dtank dot co (not .com!). You can also follow me on [Twitter](https://www.twitter.com/dtankco).
 
-To learn more, you can read [my story](/about-me/).
+To learn more, you can read [my story](/about/).
