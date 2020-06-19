@@ -12,10 +12,6 @@ description: >-
   this world.
 ---
 
-More than there, there's a disconnect between business & people. Leadership and staff. Parents from their kids.
-
-What we need is a Dharmic Lens again. It is a millennia old way of viewing ourselves, the people around us, and a way to see, think and live in this world.
-
 Each week, I send out 1 email for leaders, entrepreneurs, makers, artists, teachers, thinkers, and doers. It’s a personal essay and a provocative question about this way of thinking.
 
 I believe that brain food alone cannot nourish life. Let's have a heart to heart.
