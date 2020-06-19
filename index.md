@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Towards A More Dharma Centered World
+title: Towards A Dharma Centered World
 image:
   feature: null
 published: true
