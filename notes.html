@@ -217,6 +217,8 @@ Error message and password prompt
 
 <li>$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/new-journal-here</li>
 
+<li>$:/config/WikiParserRules/Inline/wikilink</li>
+
 <li>$:/ControlPanel 1</li>
 
 <li>$:/ControlPanel 2</li>
@@ -311,6 +313,8 @@ Error message and password prompt
 
 <li>$:/state/plugin-info--1982238690-$:/plugins/snowgoon88/edit-comptext--1750175647</li>
 
+<li>$:/state/plugin-info--896887961-$:/core</li>
+
 <li>$:/state/plugin-info--896887961-$:/plugins/sq/Stories</li>
 
 <li>$:/state/plugin-info--896887961-$:/plugins/sq/Stories---1130285312</li>
@@ -398,6 +402,10 @@ Error message and password prompt
 <li>$:/themes/tiddlywiki/vanilla/metrics/storyleft</li>
 
 <li>$:/themes/tiddlywiki/vanilla/metrics/storytop</li>
+
+<li>$:/themes/tiddlywiki/vanilla/options/sidebarlayout</li>
+
+<li>$:/themes/tiddlywiki/vanilla/options/stickytitles</li>
 
 <li>$:/view</li>
 
@@ -678,7 +686,7 @@ Right column: &lt;&lt;switchStoryView $:/_sq/Stories/config/Story2-storyview cla
 &lt;/div&gt;
 </pre>
 </div>
-<div caption="Highlights in context" created="20200102141715979" modified="20200503154222003" tags="blinks refs stroll" title="$:/.giffmex/ViewTemplate/refscontext">
+<div caption="Highlights in context" created="20200102141715979" creator="dtank" modified="20200620005955517" modifier="dtank" tags="blinks refs stroll" title="$:/.giffmex/ViewTemplate/refscontext">
 <pre>&lt;span class=&quot;viewtemplatebigtext&quot;&gt;
 
 &lt;$reveal type=&quot;nomatch&quot; stateTitle=&lt;&lt;folded-state&gt;&gt; text=&quot;hide&quot; tag=&quot;div&quot; retain=&quot;yes&quot; animate=&quot;yes&quot;&gt;
@@ -694,10 +702,10 @@ Right column: &lt;&lt;switchStoryView $:/_sq/Stories/config/Story2-storyview cla
 
 &lt;/span&gt;</pre>
 </div>
-<div caption="Hidden" created="20200502165303215" creator="Quick Config" modified="20200503154220033" modifier="Quick Config" tags="blinks refs stroll" title="$:/.giffmex/ViewTemplate/refshidden" type="application/x-tiddler">
+<div caption="Hidden" created="20200502165303215" creator="Quick Config" modified="20200620005953589" modifier="dtank" tags="blinks refs stroll" title="$:/.giffmex/ViewTemplate/refshidden" type="application/x-tiddler">
 <pre></pre>
 </div>
-<div bag="default" caption="Simple links" created="20200126143031898" modified="20200504201318164" revision="0" tags="blinks refs stroll $:/tags/ViewTemplate" title="$:/.giffmex/ViewTemplate/refslinks" type="text/vnd.tiddlywiki">
+<div bag="default" caption="Simple links" created="20200126143031898" creator="dtank" modified="20200620005955518" modifier="dtank" revision="0" tags="blinks refs stroll $:/tags/ViewTemplate" title="$:/.giffmex/ViewTemplate/refslinks" type="text/vnd.tiddlywiki">
 <pre>&lt;span class=&quot;viewtemplatebigtext&quot;&gt;
 
 &lt;$reveal type=&quot;nomatch&quot; stateTitle=&lt;&lt;folded-state&gt;&gt; text=&quot;hide&quot; tag=&quot;div&quot; retain=&quot;yes&quot; animate=&quot;yes&quot;&gt;
@@ -713,7 +721,7 @@ Right column: &lt;&lt;switchStoryView $:/_sq/Stories/config/Story2-storyview cla
 
 &lt;/span&gt;</pre>
 </div>
-<div bag="default" caption="Full text" created="20200126142157739" modified="20200504145227118" revision="0" tags="blinks refs stroll" title="$:/.giffmex/ViewTemplate/refstranscludeclean" type="text/vnd.tiddlywiki">
+<div bag="default" caption="Full text" created="20200126142157739" creator="dtank" dummy="yes" modified="20200620005951678" modifier="dtank" revision="0" tags="blinks refs stroll" title="$:/.giffmex/ViewTemplate/refstranscludeclean" type="text/vnd.tiddlywiki">
 <pre>&lt;span class=&quot;viewtemplatebigtext&quot;&gt;
 
 &lt;$reveal type=&quot;nomatch&quot; stateTitle=&lt;&lt;folded-state&gt;&gt; text=&quot;hide&quot; tag=&quot;div&quot; retain=&quot;yes&quot; animate=&quot;yes&quot;&gt;
@@ -726,7 +734,7 @@ Right column: &lt;&lt;switchStoryView $:/_sq/Stories/config/Story2-storyview cla
 
 &lt;/span&gt;</pre>
 </div>
-<div caption="Full text under sliders" created="20200126142157739" modified="20200504200732291" tags="blinks refs stroll" title="$:/.giffmex/ViewTemplate/refstranscludecollapse">
+<div caption="Full text under sliders" created="20200126142157739" creator="dtank" modified="20200620005952878" modifier="dtank" tags="blinks refs stroll" title="$:/.giffmex/ViewTemplate/refstranscludecollapse">
 <pre>&lt;span class=&quot;viewtemplatebigtext&quot;&gt;
 
 &lt;$reveal type=&quot;nomatch&quot; stateTitle=&lt;&lt;folded-state&gt;&gt; text=&quot;hide&quot; tag=&quot;div&quot; retain=&quot;yes&quot; animate=&quot;yes&quot;&gt;
@@ -751,7 +759,7 @@ Right column: &lt;&lt;switchStoryView $:/_sq/Stories/config/Story2-storyview cla
 &lt;/span&gt;
 </pre>
 </div>
-<div caption="Stroll default tiddler title position" created="20200418121047715" modified="20200503153640055" tags="stroll titleview $:/tags/ViewTemplate" title="$:/.giffmex/ViewTemplate/title">
+<div caption="Stroll default tiddler title position" created="20200418121047715" creator="dtank" modified="20200620005943983" modifier="dtank" tags="stroll titleview" title="$:/.giffmex/ViewTemplate/title">
 <pre>\define title-styles()
 fill:$(foregroundColor)$;
 \end
@@ -892,6 +900,9 @@ $:/config/ViewToolbarButtons/Visibility/$(listItem)$
 </div>
 <div created="20200504150240334" modified="20200504150259224" title="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/new-journal-here">
 <pre>hide</pre>
+</div>
+<div created="20200620010134231" creator="dtank" modified="20200620010134231" modifier="dtank" title="$:/config/WikiParserRules/Inline/wikilink">
+<pre>disable</pre>
 </div>
 <div created="20200507132103667" modified="20200507132103667" title="$:/ControlPanel 1">
 <pre></pre>
@@ -10383,7 +10394,7 @@ exports.has = function(source,operator,options) {
 <div created="20200502183202293" modified="20200502183202293" title="$:/core/ui/ControlPanel/StoryView 2">
 <pre></pre>
 </div>
-<div caption="TiddlyWiki default tiddler title position" created="20200418121129515" modified="20200503153640053" tags="stroll titleview" title="$:/core/ui/ViewTemplate/title">
+<div caption="TiddlyWiki default tiddler title position" created="20200418121129515" creator="dtank" modified="20200620005943986" modifier="dtank" tags="stroll titleview $:/tags/ViewTemplate" title="$:/core/ui/ViewTemplate/title">
 <pre>\define title-styles()
 fill:$(foregroundColor)$;
 \end
@@ -10423,8 +10434,8 @@ $:/config/ViewToolbarButtons/Visibility/$(listItem)$
 &lt;/$reveal&gt;
 &lt;/div&gt;</pre>
 </div>
-<div bag="default" created="20200106211749103" modified="20200507132110663" revision="0" tags="stroll" title="$:/DefaultTiddlers" type="text/vnd.tiddlywiki">
-<pre>[[GettingStarted]]
+<div bag="default" created="20200106211749103" creator="dtank" modified="20200620005919743" modifier="dtank" revision="0" tags="stroll" title="$:/DefaultTiddlers" type="text/vnd.tiddlywiki">
+<pre>[[What this is]]
 </pre>
 </div>
 <div created="20200620004444897" modified="20200620005413456" title="$:/GitHub/Filename">
@@ -10507,8 +10518,8 @@ $:/config/ViewToolbarButtons/Visibility/$(listItem)$
 button.green-link {color:#00cc00;}
 </pre>
 </div>
-<div created="20200228210954683" modified="20200502175039395" tags="stroll" title="$:/palette">
-<pre>$:/palettes/Vanilla</pre>
+<div created="20200228210954683" creator="dtank" modified="20200620010049306" modifier="dtank" tags="stroll" title="$:/palette">
+<pre>$:/palettes/Blanca</pre>
 </div>
 <div bag="default" created="20200126141319129" modified="20200502181612604" revision="0" tags="$:/tags/Stylesheet stroll" title="$:/plugins/danielo515/context/css" type="text/css">
 <pre>.matched {background-color:#ffc;}
@@ -11958,6 +11969,9 @@ exports.context = contextWidget;
 <div created="20200504194742991" modified="20200504194742991" title="$:/state/plugin-info--1982238690-$:/plugins/snowgoon88/edit-comptext--1750175647">
 <pre>contents</pre>
 </div>
+<div created="20200620010149256" creator="dtank" modified="20200620010151935" modifier="dtank" title="$:/state/plugin-info--896887961-$:/core">
+<pre>no</pre>
+</div>
 <div created="20200425181557629" modified="20200425181557629" title="$:/state/plugin-info--896887961-$:/plugins/sq/Stories">
 <pre>yes</pre>
 </div>
@@ -11988,8 +12002,8 @@ exports.context = contextWidget;
 <div created="20200418122550429" modified="20200504205519536" title="$:/state/tab--1498284803">
 <pre>$:/core/ui/AdvancedSearch/Filter</pre>
 </div>
-<div created="20200418132348763" modified="20200504200948507" title="$:/state/tab--1963855381">
-<pre>$:/core/ui/ControlPanel/Toolbars</pre>
+<div created="20200418132348763" creator="dtank" modified="20200620010124543" modifier="dtank" title="$:/state/tab--1963855381">
+<pre>$:/core/ui/ControlPanel/Palette</pre>
 </div>
 <div created="20200429214724797" modified="20200429214724797" title="$:/state/tab--219645345">
 <pre>$:/core/ui/ControlPanel/Plugins/Add/Themes</pre>
@@ -11997,8 +12011,8 @@ exports.context = contextWidget;
 <div created="20200423200357785" modified="20200423200357785" title="$:/state/tab--509593366">
 <pre>$:/core/ui/ControlPanel/Palette</pre>
 </div>
-<div created="20200429214732957" modified="20200429214732957" title="$:/state/tab--86143343">
-<pre>$:/core/ui/ControlPanel/Plugins/Installed/Themes</pre>
+<div created="20200429214732957" creator="dtank" modified="20200620010154198" modifier="dtank" title="$:/state/tab--86143343">
+<pre>$:/core/ui/ControlPanel/Plugins/Installed/Plugins</pre>
 </div>
 <div created="20200423200356184" modified="20200423200356184" title="$:/state/tab-102244450">
 <pre>$:/core/ui/ControlPanel/Appearance</pre>
@@ -12006,17 +12020,17 @@ exports.context = contextWidget;
 <div created="20200418151636450" modified="20200421145858496" title="$:/state/tab-11433013">
 <pre>.topicList</pre>
 </div>
-<div created="20200418121928767" modified="20200620005713583" title="$:/state/tab-1749438307">
-<pre>$:/core/ui/ControlPanel/Info</pre>
+<div created="20200418121928767" creator="dtank" modified="20200620010142303" modifier="dtank" title="$:/state/tab-1749438307">
+<pre>$:/core/ui/ControlPanel/Plugins</pre>
 </div>
 <div created="20200620004415822" modified="20200620005712902" title="$:/state/tab-2065006209">
 <pre>$:/core/ui/ControlPanel/Saving/General</pre>
 </div>
-<div created="20200418122101344" modified="20200510141038875" title="$:/state/tab/moresidebar-1850697562">
-<pre>$:/core/ui/MoreSideBar/System</pre>
+<div created="20200418122101344" creator="dtank" modified="20200620005934203" modifier="dtank" title="$:/state/tab/moresidebar-1850697562">
+<pre>$:/core/ui/MoreSideBar/All</pre>
 </div>
-<div created="20200418121835270" modified="20200521203442430" title="$:/state/tab/sidebar--595412856">
-<pre>$:/core/ui/SideBar/More</pre>
+<div created="20200418121835270" creator="dtank" modified="20200620010216414" modifier="dtank" title="$:/state/tab/sidebar--595412856">
+<pre>$:/core/ui/SideBar/Open</pre>
 </div>
 <div created="20200504200956301" modified="20200504201043124" title="$:/state/tabs/controlpanel/toolbars-1345989671">
 <pre>$:/core/ui/ControlPanel/Toolbars/EditToolbar</pre>
@@ -12039,7 +12053,7 @@ exports.context = contextWidget;
 <div bag="default" created="20200620005739923" creator="d" modified="20200620005740332" modifier="dtan" revision="1" title="$:/status/UserName">
 <pre>dtank</pre>
 </div>
-<div created="20200620004409625" list="[[What this is]] GettingStarted" modified="20200620005539754" title="$:/StoryList">
+<div created="20200620004409625" creator="dtank" list="[[What this is]]" modified="20200620010003466" modifier="dtank" title="$:/StoryList">
 <pre></pre>
 </div>
 <div created="20200519141000553" list="$:/.giffmex/Buttons/more-tiddler-edit-actions $:/core/ui/Buttons/delete $:/core/ui/Buttons/cancel $:/core/ui/Buttons/save" modified="20200521145647980" tags="$:/giffmex/bigeditarea $:/giffmex/stroll" title="$:/tags/EditToolbar">
@@ -12130,7 +12144,7 @@ exports.context = contextWidget;
 <div created="20200429214841632" modified="20200429214841632" tags="$:/tags/ServerConnection" title="$:/temp/ServerConnection/https://tiddlywiki.com/library/v5.1.22/index.html" url="https://tiddlywiki.com/library/v5.1.22/index.html">
 <pre>loaded</pre>
 </div>
-<div bag="default" created="20200414145220556" modified="20200423123249704" revision="0" title="$:/theme" type="text/vnd.tiddlywiki">
+<div bag="default" created="20200414145220556" creator="dtank" modified="20200620010055441" modifier="dtank" revision="0" title="$:/theme" type="text/vnd.tiddlywiki">
 <pre>$:/themes/tiddlywiki/snowwhite</pre>
 </div>
 <div author="JeremyRuston" core-version="&gt;=5.0.0" dependents="$:/themes/tiddlywiki/vanilla" description="Emphasises individual tiddlers" name="Snow White" plugin-priority="0" plugin-type="theme" title="$:/themes/tiddlywiki/snowwhite" type="application/json" version="5.1.22">
@@ -12247,6 +12261,12 @@ exports.context = contextWidget;
 </div>
 <div bag="default" created="20200414145420217" modified="20200414145441106" revision="0" title="$:/themes/tiddlywiki/vanilla/metrics/storytop" type="text/vnd.tiddlywiki">
 <pre>0px</pre>
+</div>
+<div bag="default" created="20200127172539001" creator="dtank" modified="20200620010116363" modifier="dtank" revision="0" tags="tb" title="$:/themes/tiddlywiki/vanilla/options/sidebarlayout" type="text/vnd.tiddlywiki">
+<pre>fluid-fixed</pre>
+</div>
+<div created="20200620010108499" creator="dtank" modified="20200620010108499" modifier="dtank" title="$:/themes/tiddlywiki/vanilla/options/stickytitles">
+<pre>yes</pre>
 </div>
 <div bag="default" created="20200127165334843" modified="20200504211114056" revision="0" tags="stroll" title="$:/view" type="text/vnd.tiddlywiki">
 <pre>classic</pre>
