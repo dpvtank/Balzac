@@ -1,6 +1,6 @@
 title:            Dhawal Tank
 tagline:          Dharmic Growth
-description:      The inner life of makers, entrepreneurs and leaders.
+description:      The inner life of entrepreneurs, leaders, and organizations.
 canonical:        https://dtank.co/
 
 # Owner/author information
@@ -36,6 +36,9 @@ links:
     external: false
   - title: Recommendations
     url: /recommendations
+    external: false
+  - title: Contact
+    url: /contact
     external: false
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
