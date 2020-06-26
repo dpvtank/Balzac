@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Why Change Initiatives Fail
-
+published: true
+image: null
+feature: 2020-06-05-527245.webp
 ---
 Whether it be for your sales teams, service teams, or in your culture itself, 70% of all change initiatives fail.
 
