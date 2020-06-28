@@ -9,10 +9,10 @@ published: true
 
 ## How to Pronounce my Name
 Here's how you pronounce my name:
-Dhawal. It rhymes with shovel. The-vel. Shovel. Say that a few times and you'll get how to pronounce my name.
-Here's the audio anyways:
+Dhawal. It rhymes with shovel. The-vel. Shovel. I've also included an audio here.
+
 <figure>
-    <figcaption>Listen to the T-Rex:</figcaption>
+    <figcaption>Pronouncing my name</figcaption>
     <audio
         controls
         src="/assets/pronounciation.mp3">
