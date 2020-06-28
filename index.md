@@ -12,11 +12,11 @@ description: >-
   this world.
 ---
 
-Each week, I send out 1 email for leaders, entrepreneurs, makers, artists, teachers, thinkers, and doers. It’s a personal essay and a provocative question about this way of thinking.
+Each week, I send out 1 email for leaders, entrepreneurs, makers, artists, teachers, thinkers, and doers. It’s an inquiry into your own experiences to become a more balanced person.
 
 I believe that brain food alone cannot nourish life. Let's have a heart to heart.
 
-<iframe src="https://dtank.substack.com/embed" width="480" height="320" frameborder="0" scrolling="no"></iframe>
+<center><iframe src="https://dtank.substack.com/embed" width="480" height="320" frameborder="0" scrolling="no"></iframe></center>
 
 ## Popular Articles
 
@@ -37,6 +37,17 @@ These Principles are distilled down based on the best practices of the most effe
 This is a long yet immediately applicable guide for small businesses that want to grow their business in low cost and effective ways. It is 16,000+ words of pure actionable insight delivered in a structured way.
 
 ## About Me
+
+In case you're wondering how to pronounce my name, here's an audio:
+<figure>
+    <figcaption>Pronouncing my name</figcaption>
+    <audio
+        controls
+        src="/assets/pronounciation.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
 
 By day, my primary work is in sales, customer success, and strategy. I’ve spent 6+ years doing sales, customer success, and marketing in Fortune 500 companies as well as startups. I also consult with and advise startups to do the same. You can see a more professional breakdown of my work on [LinkedIn](https://www.linkedin.com/in/dtankco).
 
