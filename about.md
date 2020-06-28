@@ -7,6 +7,22 @@ tags: null
 published: true
 ---
 
+## How to Pronounce my Name
+Here's how you pronounce my name:
+Dhawal. It rhymes with shovel. The-vel. Shovel. Say that a few times and you'll get how to pronounce my name.
+Here's the audio anyways:
+<figure>
+    <figcaption>Listen to the T-Rex:</figcaption>
+    <audio
+        controls
+        src="/assets/pronounciation.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+## Brief Highlights
 I’ve worked inside of and with dozens of organizations to see where they succeed and what makes them come up short.
 
 I am one of the 100 Global Leaders of Tomorrow as per the <a href="http://symposium.org" target="_blank" rel="noopener noreferrer">St. Gallen Symposium</a> in Switzerland. I have an MBA from York University (Top 10 in the World outside the US as per <a href="http://schulich.yorku.ca/about/rankings/">Forbes</a>) and a Bachelors from the Ivey Business School (<a href="https://www.ivey.uwo.ca/discover/rankings/">Top ranked</a> undergrad program in Canada).
