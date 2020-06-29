@@ -35,9 +35,24 @@ This isn't a discussion of whether hashtags or good or not. This isn't about loo
 - Useless feed. Inspirational quotes from billionaires is not a good thing to post. It doesn't work.
 - Bosses vs leaders and other useless posts.
 
+it's mostly virtue signalling. "people are afraid to share news that they actually care about. Instead, they share news that they wish they cared about"
+
+"    “Does this article show that I know what’s going on in my industry?”
+    “Is this article inspirational without making me look too religious, and put me at risk of losing my job?”
+    “If my boss reads this article, will he think that I posted it because I think that he is incompetent?”
+
+Eventually it gets too hard, and you end up sharing a horribly boring article about “industry trends” because it has some pretty charts and it’s almost time for your lunch break."
+Source: https://smithhousedesign.com/6-reasons-why-linkedin-sucks-as-told-through-memes/
+
+LinkedIn feeds a different type of social media resentment. Like how Instagram makes us self-conscious about our happiness, our physical bodies, our lifestyles, LinkedIn does that to professional success. I'm sorry Gary V, I don't care about your overhyped garbage:
+
+https://www.tiktok.com/@realjackmartin/video/6840585577381825797
+
 It is just a heaping pile of garbage.
 
 Building a brand is useless. Reid Hoffman was perhaps inspired by writing "The Startup of You" to think of yourself as a brand. I think this brand based thinking has gone far enough. Sorry, but you and I are not brands. We are not hollow corporate entities.
+
+What exactly are skills? Tons of people endorse me for Strategy, but what exactly does that mean? 
 
 We are humans and we need a different language and a metaphor. We need to think in terms of authenticity. Hollow-selves and hollow-suits.
 
@@ -66,6 +81,15 @@ LinkedIn can run on advertising alone. Not on private messages, but based on fee
 
 I know that Networks Effects is the lingo of the tech world. Just because there's a network effect doesn't make it useful.
 
-
-
 Do the words force, compulsion, misery, also part of the lexicon?
+
+The opportunity for LinkedIn:
+
+LinkedIn can be the catalyst for the future of work. It can use its massive number of users to actually create something good, give people a chance to be human, to focus on learning and growth and mutually helping one another. But instead, it optimizes for algorithmic popularity.
+
+The solution?
+A mix of Mighty Networks + Twitter + Wikipedia + Medium.
+
+It needs to be a content first platform. It needs to be about professional learning, and less about professional networking, which has truth-creep at its center (the tendency to exagerate and self-aggrandizement). Demonstrating knowledge is the real means of growth. That's it. Demonstrate knowledge, share your learnings, grow.
+
+If I'm not a lawyer, I don't care. So don't show me that crap. Same network, different tribes.
