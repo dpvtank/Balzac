@@ -72,19 +72,15 @@ The story deeply affected the thousands who saw it. Many resolved to change thei
 
 In 2014, I started at <a href="http://ups.com">UPS</a>. I made logistics accessible to my clients—large enterprises and start-ups—and brought in millions, exceeding all performance in the process. When a medical device company needed to safely deliver medical equipment to a woman’s clinic in Afghanistan threatened by the Taliban, I was brought in to make it happen. My insecurity and fear had left me as I worked with CEOs in the boardroom and warehouse workers. I learned to build global teams, solve complex global supply chain problems, but mostly importantly, I learned to serve others in business by getting out of my own way. This is when I started advising start-ups on how to grow and how to remain grounded.
 
-Since then, I've worked with dozens of organizations across the US &amp; Canada, attended the <a href="http://schulich.yorku.ca">Schulich School of Business</a> at <a href="http://yorku.ca">York University</a> to receive an MBA, and become a thought leader at the <a href="http://symposium.org">St. Gallen Symposium</a> in Switzerland.
+Since then, I've worked with dozens of organizations across the US and Canada, attended the <a href="http://schulich.yorku.ca">Schulich School of Business</a> at <a href="http://yorku.ca">York University</a> to receive an MBA (one of the top 10 business schools in the world outside the US), and become a thought leader at the <a href="http://symposium.org">St. Gallen Symposium</a> in Switzerland.
 
 <h2>Finding A Purpose</h2>
 
-Looking at organizations from within, I have come to the realization that the surest way to make the biggest impact in the world is to help leaders do better. It is to help business succeed. I believe strongly that free markets and commerce are the best way to eradicate poverty, give people a feeling of dignity in their work, and give purpose.
+Working as a consultant and as someone who builds relationships both with companies, leaders, and end clients, I've learned that what we need more than anything else is the ability to see the world from someone else's perspective and help them. Doing this makes us better leaders, salespeople. It also helps us build better products, services, and be more profitable.
 
-However, when I worked with companies and inside companies, I noticed a crisis of thought leadership. It became clear that the primary work of leaders was to make decisions and sell those decisions to others.
+Somehow however, we're missing that in the world. Maybe it's the left-brain focused nature of the world, or the tech-determinism we believe in. I do not believe technology and a left-brained world alone will fix everything. Our health, the health of our planet, and our ability to be whole will come from breaking out of this worldview and connecting with others and ourselves.
 
-Yet, most leaders and decision makers found it hard to make decisions. They found it hard to move forward. Strategy, marketing, operations, sales: no matter what the department, it was ultimately a lack of insight that kept organizations stuck and stagnating.
-
-I wanted to change this. I see my mission to help leaders make sound decisions to grow and build their organizations while finding greater satisfaction in their work.
-
-My vision is to empower 100,000 leaders and decision-makers to make bold, courageous, and positive decisions for themselves, their organizations, and society. There is tremendous technological, economical, environmental changes coming our way. I believe strongly that the proper way to deal with these challenges begins with the inner work of changing our beliefs, our actions, our attitudes, our minds, and our hearts.
+There is tremendous technological, economical, environmental changes coming our way. I believe strongly that the proper way to deal with these challenges begins with the inner work of changing how we see ourselves and how we see others.
 
 <h2>Today</h2>
 
