@@ -83,6 +83,27 @@ I know that Networks Effects is the lingo of the tech world. Just because there'
 
 Do the words force, compulsion, misery, also part of the lexicon?
 
+Here's a basic tenet of human psychology that's worth considering. People want to feel approved of. They want to feel useful. They want to feel recognized for what they do. LinkedIn allows for only the most shallow and hollow way of making that happen.
+
+It starts with the profile. When a user creates an account, let him build on a canvas. Make it about him, don't make him into the product.
+
+A blank canvas, and a chance to dip in and out of conversations. Think Twitter, but more substantial. Not tweetthreads, not empty nothing, but real conversations. Let him dip in and out of his groups. His college group, his professional group, his volunteer group, sure. But also his marketing group, his whatever group. The group can be the central point of consuming, sharing, and contributing to content.
+
+And actually, change the idea of content and instead make it about knowledge.
+
+How does that happen? There are tens of millions of mostly unused and abandoned group. Groups are feeds. They are rivers where a person can dip into it and join anytime he or she wants.
+
+Rivers where he can paddle when he wants. Hike when he wants, etc. This is an adventure, this is time in nature. The work of work on social media should not feel like work. It should feel like gardening or like an adventure.
+
+So, say you're into marketing, or perhaps into engineering. Let me dip into the marketing stream. See what people are writing about. If someone catches my eye in that stream, let me comment on her post. Let me follow her. Let me build a connection with her. This relationship works in the context of that stream only. This is not an unsolicated connection request to "network" and then spam.
+
+Of course at this point, the question becomes, how do you ensure that the topics are swimmable and navigateable? After all, marketing as a worldwide topic is massive and hard to take in. So to counter that, there are 5-10 solutions:
+1. Make it geography limited.
+2. Randomly present the feed, and refine based on engagement.
+3. 
+
+The other thing it needs is perhaps a better set of editors who share the right set of news. Think Economist Espresso, now BuzzFeed level garbage.
+
 The opportunity for LinkedIn:
 
 LinkedIn can be the catalyst for the future of work. It can use its massive number of users to actually create something good, give people a chance to be human, to focus on learning and growth and mutually helping one another. But instead, it optimizes for algorithmic popularity.
