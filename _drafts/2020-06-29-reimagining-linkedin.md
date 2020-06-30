@@ -1,6 +1,16 @@
 ---
 published: false
 ---
+LinkedIn is not ready for the future of work. With its profoundly broken system, it encourages the existing system which makes people miserable, bored, and exhausted from engaging in "professional" learning.
+
+LinkedIn, maybe just due to its size, is the kid no one wants to play with on the playground but is forced to. This is not success. This is compulsion. The leaders of LinkedIn should note that metrics that emerge from compulsion do not indicate a strong ecosystem.
+
+This has given rise to an entire ecosystem whose entire job titles are about how to hack, fix, push, pull the levers of LinkedIn. This would be okay if it were companies trying to optimize for customers and potential candidates. But it is candidates themsleves who are commoditizing themselves.
+
+To reimagine LinkedIn is to realistically look at the future of work, role of the individual, work that makes us happy, and the need of the economy that is meant to make us constant learners, connectors, creators, and makers. LinkedIn as a system is not at all ready for this revolution.
+
+If anything, LinkedIn is a reactive system where people line up to stand out in a sea of sameness. 
+
 LinkedIn is profoundly broken. It may not seem that way based on pure numbers. Its valuation, its unicorn status, or its active user base. 
 
 It's purpose is supposed to be: "connect the world's professionals to make them productive and successful."
@@ -100,13 +110,26 @@ So, say you're into marketing, or perhaps into engineering. Let me dip into the 
 Of course at this point, the question becomes, how do you ensure that the topics are swimmable and navigateable? After all, marketing as a worldwide topic is massive and hard to take in. So to counter that, there are 5-10 solutions:
 1. Make it geography limited.
 2. Randomly present the feed, and refine based on engagement.
-3. 
+3. `
 
 The other thing it needs is perhaps a better set of editors who share the right set of news. Think Economist Espresso, now BuzzFeed level garbage.
 
 The opportunity for LinkedIn:
 
 LinkedIn can be the catalyst for the future of work. It can use its massive number of users to actually create something good, give people a chance to be human, to focus on learning and growth and mutually helping one another. But instead, it optimizes for algorithmic popularity.
+
+In an era where most people dislike their jobs, LinkedIn feeds the machine even more.
+
+| Future of Work | LinkedIn |
+| -------------- | -------- |
+| Blend of professional & personal work | Chronological professional work only |
+| Project based | Titled based |
+| Multi-dimensional talents, skills, abilities | One core thing you have to be about |
+| Continuous Learning based | Credential based |
+| Tapping into new networks & opportunities | All about existing networks |
+| Sharing | Spammy wall of text |
+| Worker in the driver's seat | Spammy, self-promotional experiences |
+| Proactive | Reactive |
 
 The solution?
 A mix of Mighty Networks + Twitter + Wikipedia + Medium.
