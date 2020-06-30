@@ -139,6 +139,9 @@ A mix of Mighty Networks + Twitter + Wikipedia + Medium.
 3. Companies around the groups (multiple groups)
 4. All interconnected with content
 
+1. An individual makes a profile. Not just a static profile, but as aspirational one as well. This is the real value of wanting to use LinkedIn. People want to grow, evolve, etc. But LinkedIn doesn't allow this. Imagine if you got a way to understand your talents, your passions, your abilities through tests, through talks, through whatever. Imagine if that was the first step of LinkedIn. NOT: let's fill out a resume.
+This would make a person WANT to use LinkedIn. It also changes the tone of what this social network can be. Not a static look at what has been, but what you can be. Hope hooks the heart. LinkedIn right not hooks a self-loating mind.
+
 People need to be someone you tap into from time to time. You don't necessarily follow all their updates. Let people join the content creators. 
 
 It needs to be a content first platform. It needs to be about professional learning, and less about professional networking, which has truth-creep at its center (the tendency to exagerate and self-aggrandizement). Demonstrating knowledge is the real means of growth. That's it. Demonstrate knowledge, share your learnings, grow.
