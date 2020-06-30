@@ -134,6 +134,13 @@ In an era where most people dislike their jobs, LinkedIn feeds the machine even 
 The solution?
 A mix of Mighty Networks + Twitter + Wikipedia + Medium.
 
+1. Individuals at the heart
+2. Groups and tribes around the individual
+3. Companies around the groups (multiple groups)
+4. All interconnected with content
+
+People need to be someone you tap into from time to time. You don't necessarily follow all their updates. Let people join the content creators. 
+
 It needs to be a content first platform. It needs to be about professional learning, and less about professional networking, which has truth-creep at its center (the tendency to exagerate and self-aggrandizement). Demonstrating knowledge is the real means of growth. That's it. Demonstrate knowledge, share your learnings, grow.
 
 If I'm not a lawyer, I don't care. So don't show me that crap. Same network, different tribes.
