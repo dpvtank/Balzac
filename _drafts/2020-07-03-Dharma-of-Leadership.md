@@ -6,10 +6,7 @@ description: >-
   The work of human life is find peace and happiness. The work of dharma is to
   find that peace and happiness, even in the chaos of life.
 ---
-
 Even amidst the stresses and challenges of work, family, friends, employees and co-workers and customers. Of health issues and broken relationships and financial hardships, of aimlessness, and a sense of drifting. Through failure, and through success.
-
-Dharma is that which upholds--peace, prosperity, happiness, and health personally and within a society or community. It is civilizational philosophy as well as a personal way of life.
 
 In my work with entrepreneurs, leaders, and anyone who is trying to make something happen in this world, I find that chaos often wins. 
 
@@ -17,17 +14,19 @@ This manifests in a number of ways: depression, stress, and other mental health 
 
 In others, it manifests as an imbalanced type of growth. They are profoundly progressing in their work but completely alone and starving for love, affection, and relationships. They justify it by saying they're not ready, or that once they have their prized goal, they will be happy. But in private moments, many have told me about the dissatisfaction they feel in their relationships.
 
-Their health takes a turn for the worse. They lose weight, they become erratic and irritable. They feel profoundly alone in their life journey.
+Their health takes a turn for the worse. They lose weight or they massively overeat, they become erratic and irritable. They feel profoundly alone in their life journey.
 
-What is at the heart of this discord? What are the deep cultural and mental narratives that inform this? Mindfulness, meditation, are useful tools, but uprooted from their Dharmic roots and purpose, their benefits are temporary. Meditation and mindfulness become tools to find respite, but not necessarily re-balance and re-adjust our broken selves.
+What is at the heart of this discord? I believe it is a deeper cultural narrative that breaks us this way. Mindfulness, meditation, are useful tools, but uprooted from their Dharmic roots and purpose, their benefits cannot be fully realized. Meditation and mindfulness become tools to find respite, but not necessarily re-balance and re-adjust our broken selves. For that, you need a different worldview, and a different mindset and heartset.
 
-The fact is simple, just working for a social enterprise, a b-corp, or a socially responsible organization is not enough to sustain yourself. It is not enough to create balance. Nor is it enough to feel grounded, in-control.
+Just working for a social enterprise, a b-corp, or a socially responsible organization is not enough to create balance either. 
 
-And neither does meditation alone help you. For that, you need a different worldview, and a different mindset and heartset.
+Greater mental health support cannot help if the deeper cultural narrative is not challenged. Like fish who do not recognize the water they live in, many of us are take these hidden and unconscious narratives for granted. Tools like meditation and mindfulness can help you emerge your head out of the waters, but the water remains as is for yourself and for others.
 
-And greater mental health support cannot help if the deep culture is not challenged and exposed for its ill effects. This is not to say that people who live in Dharmic countries do not suffer from mental health. But living in such a place does not mean they understand dharmic principles. That is the reason why it happens. 
+That is why in response to this deeper cultural narrative, sometimes you feel nihilistic. There can be a deep cyncism towards the world and the roles we have to play in it.
 
-Let's try to understand these one by one.
+More than ever, a Dharmic way of living can offer the balance, peace of mind, constructive growth, and harmony in our work. Dharma is that which upholds--peace, prosperity, happiness, and health personally and within a society or community. It is civilizational philosophy as well as a personal way of life. 
+
+Let's first understand the key differences between the two before we get into the unique ideas that the Dharmic way of life teaches.
 
 | **Western Perspective** | **Dharmic Perspective** |
 |---------------------|---------------------|
@@ -35,12 +34,53 @@ Let's try to understand these one by one.
 | Purpose: Unbalanced | Purpose: Balanced |
 | The World as a Testing Ground | The World as a School |
 | Others as assets | Others as you |
+| You are fininite | You are infinite |
+
+## The Nature of You
+
+The Western perspective tells you that you are this finite being. You have a limited time to live and get things done. You did not exist before and beyond your limited time here, you will cease to exist. Alternatively, in this limited time you have, you better stack the chips in your favor, so that you have  a permanent 
+
+Is it any wonder that this perspective leads us to building a society and making things that 
+
+## The Nature of Time
+
+"Get busy living or get busy dying"
+
+This is one of the most inadvertently destructive ideas that has caused more stress, burnout, lack of self worth in you and me. In our economies, it has prized short term performance at the expense of everything else--integrity, ethics, environmental factors, impact on humans and animals.
+
+In the Western perspective, time is a limited resource. It tells us that you and I have a limited amount of time to get things done with our life and after this time is up, the whole game is over. This either makes you hedonistic as you burn your time away in pleasures of the world, or it makes you inwardly drawn as you get work done. 
+
+You believe you only have a limited amount of time to get work done, and work is the primary thing you spend your time on. You want to build the company, business, product, piece of work overnight.
+
+This limited view of time has given rise to ideas like quarterly earnings, where the reputation of a firm is only as good as its performance in the last quarter. Where your own performance is only as good as the last quarter, the last month, the last week, yesterday.
+
+If you aren't doing something at this very minute, you're static, you're dying. This nature of time puts an undue emphasis on external work and activities, because if time is limited, then you better change things externally as quickly as possible.
+
+In the Dharmic perspective, time is infinite. There is no artificial hurry. 
+
+## The Purpose of Life
+
+In the Western perspective, the purpose of life therefore is to get things done forever. 
+
+## The Nature of the World
+
+The world is a testing ground, a battlefield in which you fight and win your spot or prize. In religious terms, this might mean a spot in heaven (or hell). While more people do not believe this concept, the battleground/testing ground metaphor remains firmly lodged in our minds. The world is a place that we push, manipulate, and shape into what we want it to be.
+
+Build the company, the team, the organization that gets you your sure. Compete, fight, win in the marketplace! 
+
+The Dharmic perspective says that the world is a university and we are here to learn about our true nature, the true nature of time, and grow in a balanced way.
+
+Dharma teaches us to pursue wealth and material desires in a measured way so that it protects everyone else as well. It tells us to create the things we want wit
+
+## The Nature of Others
+
+Others are assets, customers, clients, prospects, competitors, suppliers. Or at best, they are other people. There is a distinct measure of separation.
+
+The Dharmic perspective teaches us to say Namaste. It tells us to see the see the eternal unchanging infinite nature and potential of everyone else. It teaches us to see others as similar in their nature as us. No one is an adversary. On the surface, as long as they too are identified with this false narrative, they are distinct and separate from others, but they too are ultimately the same as your own nature.
 
 
 
 What is the dharma of a leader, an entrepreneur, a whatever.
-
-I am reminded of a story of King Janak. He was a renowned King in India. One day, the massive city that he used to rule was set on fire. At that time, he said that the entire city is burning and his kingdom is coming to ruins but he was unaffected by it. He remained completely still throughout it all.
 
 Often times, we think our leadership is what moves people. But that is not always the case. We often engage in leadership. Leadership is associated with the titles, the ranks we have. Increasingly as well, leadership is about unofficial and informal roles. Us taking a role leading an after-work community, or some event within our communities.
 
@@ -71,3 +111,9 @@ Let's explore each of these in turn and apply them to a leadership situation you
 Janak Raja and Mithila burning. Being completely unaffected by it. Work and live without attachment. Not tetherless. But attached to the right things.
 2. Inner realization
 You are the atma, not the body-mind. And your nature is something much greater than the temporary waves of the world. And this is who everyone else. There is no good and evil.
+
+## Why do I care?
+
+Even though more of us have access to more things, and as more people are lifted out of poverty and lives get better, we are creating systems, societies, cultural products and technological innovations that have put our lives profoundly out of balance.
+
+We are richer, prosperous, and more comfortable than ever before. But we are also emotionally, mentally, and environmentally disconnected. We 
