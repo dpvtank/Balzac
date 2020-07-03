@@ -21,7 +21,11 @@ What is at the heart of this discord? What are the deep cultural and mental narr
 
 Let's try to understand these one by one.
 
-1. Dharma 
+| Western Perspective | Dharmic Perspective |
+|---------------------|---------------------|
+| Time: Limited | Time: Infinite|
+| Purpose: Unbalanced | Purpose: Balanced|
+| Self: Limited by the capabilities of the body-mind | Self: the inner self is unlimited |
 
 What is the dharma of a leader, an entrepreneur, a whatever.
 
