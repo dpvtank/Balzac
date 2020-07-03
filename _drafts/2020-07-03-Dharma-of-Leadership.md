@@ -7,7 +7,6 @@ description: >-
   find that peace and happiness, even in the chaos of life.
 ---
 
-
 Even amidst the stresses and challenges of work, family, friends, employees and co-workers and customers. Of health issues and broken relationships and financial hardships, of aimlessness, and a sense of drifting. Through failure, and through success.
 
 Dharma is that which upholds--peace, prosperity, happiness, and health personally and within a society or community. It is civilizational philosophy as well as a personal way of life.
@@ -30,7 +29,7 @@ And greater mental health support cannot help if the deep culture is not challen
 
 Let's try to understand these one by one.
 
-| Western Perspective | Dharmic Perspective |
+| **Western Perspective** | **Dharmic Perspective** |
 |---------------------|---------------------|
 | Time: Limited | Time: Infinite|
 | Purpose: Unbalanced | Purpose: Balanced |
