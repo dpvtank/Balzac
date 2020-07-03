@@ -2,30 +2,42 @@
 published: false
 title: The Dharma of Leadership
 layout: post-no-feature
+description: >-
+  The work of human life is find peace and happiness. The work of dharma is to
+  find that peace and happiness, even in the chaos of life.
 ---
-The work of human life is find peace and happiness. The work of dharma is to help us find that peace and happiness, even in the chaos of life.
+
 
 Even amidst the stresses and challenges of work, family, friends, employees and co-workers and customers. Of health issues and broken relationships and financial hardships, of aimlessness, and a sense of drifting. Through failure, and through success.
 
 Dharma is that which upholds--peace, prosperity, happiness, and health personally and within a society or community. It is civilizational philosophy as well as a personal way of life.
 
-When I look at the work of entrepreneurs, leaders, and anyone who is trying to make something happen in this world, I find there is a general fight.
+In my work with entrepreneurs, leaders, and anyone who is trying to make something happen in this world, I find that chaos often wins. 
 
-Mental health issues, discord, sleeplessness, illness, burnout, and other signs of weariness. In some people, it is a general coldness, a sterile disembodiment from their own lives to "grind" or "hustle".
+This manifests in a number of ways: depression, stress, and other mental health issues, discord, sleeplessness, illness, burnout, and other signs of weariness. In some people, it is a general coldness, a sterile disembodiment from their own lives to "grind" or "hustle".
 
-In others, it manifests as an imbalanced type of growth. They are profoundly in love with their work but completely alone and starving for love, affection, and relationships.
+In others, it manifests as an imbalanced type of growth. They are profoundly progressing in their work but completely alone and starving for love, affection, and relationships. They justify it by saying they're not ready, or that once they have their prized goal, they will be happy. But in private moments, many have told me about the dissatisfaction they feel in their relationships.
 
-Relationships too have become laden with the baggage of the world.
+Their health takes a turn for the worse. They lose weight, they become erratic and irritable. They feel profoundly alone in their life journey.
 
 What is at the heart of this discord? What are the deep cultural and mental narratives that inform this? Mindfulness, meditation, are useful tools, but uprooted from their Dharmic roots and purpose, their benefits are temporary. Meditation and mindfulness become tools to find respite, but not necessarily re-balance and re-adjust our broken selves.
+
+The fact is simple, just working for a social enterprise, a b-corp, or a socially responsible organization is not enough to sustain yourself. It is not enough to create balance. Nor is it enough to feel grounded, in-control.
+
+And neither does meditation alone help you. For that, you need a different worldview, and a different mindset and heartset.
+
+And greater mental health support cannot help if the deep culture is not challenged and exposed for its ill effects. This is not to say that people who live in Dharmic countries do not suffer from mental health. But living in such a place does not mean they understand dharmic principles. That is the reason why it happens. 
 
 Let's try to understand these one by one.
 
 | Western Perspective | Dharmic Perspective |
 |---------------------|---------------------|
 | Time: Limited | Time: Infinite|
-| Purpose: Unbalanced | Purpose: Balanced|
-| Self: Limited by the capabilities of the body-mind | Self: the inner self is unlimited |
+| Purpose: Unbalanced | Purpose: Balanced |
+| The World as a Testing Ground | The World as a School |
+| Others as assets | Others as you |
+
+
 
 What is the dharma of a leader, an entrepreneur, a whatever.
 
