@@ -17,7 +17,7 @@ Let's get to it.
 
 # The Problem
 
-There are two sets of problems with LinkedIn. The surface is what we see and what annoys us the most. The second is more philosophical. It is about the metaphors and narratives that are implicitly baked into the product and service. These are the roots of not only a broken product, but a broken approach to work itself.
+There is only one big problem at the heart of LinkedIn, which can be separated into two sets of issues. The surface issues are what we see and what annoys us the most. The second is more philosophical. The second issues are about the metaphors and narratives that are implicitly baked into the product and service. These are the roots of not only a broken product, but a broken approach to work itself.
 
 As I go through these details, a note to those reading this internally that the metrics might show a different story. However, I do not believe high engagement necessarily means positive feelings and opinions about LinkedIn. Its leaders should note that metrics that emerge from compulsion do not indicate a strong ecosystem. There's a reason why alternative networks are popping up that tackle this challenge differently, and they are growing fast. Companies like [BlueCrew](https://bluecrewjobs.com) and [Jobcase](https://jobcase.com), even though they are focused on blue collar jobs, are doing a much better job (pun fully intended) at understanding the needs of its users.
 
@@ -25,7 +25,7 @@ _(Yes, I know they are not strict social networks.)_
 
 ## User as a Product, Advertiser/Recruiter as Customer
 
-On LinkedIn, you are the product. This would not be so bad in and of itself, if it provided enough positive value to the user. However, it dramatically reduces the usefulness of the platform for the users themselves in a few key ways. This is the main 
+On LinkedIn, you are the product. This would not be so bad in and of itself, if it provided enough positive value to the user. However, it dramatically reduces the usefulness of the platform for the users themselves in a few key ways. 
 
 ### Broken Way of Relating to Others
 
@@ -35,7 +35,9 @@ First, it muddies the experience of the feed. Say you are not a lawyer or have a
 
 Second, it gives rise to virtue signaling and bland content. The feed on LinkedIn is like a giant market where people are mostly confused about what to share so they are forced to virtue signal. This is why we get either dreadfully boring industry news about completely unrelated fields on our timeline from friends, or we get the useless posts about the inspiring wisdom of billionaires with #so #many #hashtags #to #make #it #noticeable #to #others. If people don't know who or what they're posting to, then what gets shared is not useful to anyone. So you post the absolute generic with no value.
 
-This doesn't even count the "Breaking News" section on the top left corner that highlights click-baity news. While it is meant to be informative, it is not context driven, or user driven.
+LinkedIn also feeds a different type of social media resentment. Like how Instagram makes us self-conscious about our happiness, our physical bodies, our lifestyles, LinkedIn does that to professional success. I have had countless conversations with people of varying work experiences who feel a crushing sense of being left behind seeing out-of-context moves of their colleagues. Artificial and canned response only add to this type of broken and artificial relating with others.
+
+This doesn't even count the "Breaking News" section on the top left corner that highlights click-baity anxiety producing news. While it is meant to be informative, it is not context driven, or user driven. Constructive Journalism might be a potential solution here.
 
 Finally, it gives rise to artificial connections. You can either choose to accept connection requests from just the people you know well to curate your relationships carefully, but that reduces the value of **the network** (network effects). 
 
@@ -73,35 +75,20 @@ In the same way that standardized tests only prove the ability of students to gi
 
 Better recruiting would be hyper focused based on networks and interests, and seeing those who are organically contributing the best lessons, engaging with the most content, and growing alone those lines. LinkedIn is not suited for that.
 
-This is not even accounting for the advertiser experience. Since you are the product and the customer is the advertiser, this fuels the spammy messages that we get on there. As [John Biggs](https://twitter.com/johnbiggs) puts it, "LinkedIn is a spam garden full of misspelled, grunty requests from international software houses that are looking, primarily, to sell you services."
+This old model of recruiting is static and does not always allow the candidates who are learning, growing, and increasingly resorting to unconvential means to gather experience. Projects, side startups, online hustles, volunteer work, etc are all other parts of what makes a person a person.
+
+These valuable experiences, skills, and results are mostly ignored in a product that favors chronological discrete separation of professional experiences alone.
+
+On the other hand, we have a broken advertiser experience. Since you are the product and the customer is the advertiser, this fuels the spammy messages that we get on there. As [John Biggs](https://twitter.com/johnbiggs) puts it, "LinkedIn is a spam garden full of misspelled, grunty requests from international software houses that are looking, primarily, to sell you services."
 
 This spam filled experience is not just limited to our inbox either. It extends to our feed as well, as I've already discussed above.
 
-**I believe the future of LinkedIn could still involve making the user the product, but more intelligently engaging the users needs. I will go into this later on in this essay.**
-
-LinkedIn feeds a different type of social media resentment. Like how Instagram makes us self-conscious about our happiness, our physical bodies, our lifestyles, LinkedIn does that to professional success. I'm sorry Gary V, I don't care about your overhyped garbage:
-
-https://www.tiktok.com/@realjackmartin/video/6840585577381825797
-
-
-
-
-## Static
+**I believe the future of LinkedIn could still involve making the user the product, but more intelligently engaging the users needs.**
 
 # The Future of Work
 
+At its heart, the reason
 
-
-### The Spam
-
-
-### The Feed
-
-
-Think wet markets. 
-
--Unwanted connection requests
--Hard to use in an intuitive way
 
 
 Source: https://smithhousedesign.com/6-reasons-why-linkedin-sucks-as-told-through-memes/
@@ -112,16 +99,6 @@ It is just a heaping pile of garbage.
 The fact is simple: LinkedIn is not ready for the future of work. With its profoundly broken system, it encourages the existing system which makes people miserable, bored, and exhausted from engaging in "professional" networking.
 
 It's purpose is supposed to be: "connect the world's professionals to make them productive and successful."
-
-Unfortunately, it fails on this on many fronts.
-
-With canned responses to people's career milestones, a constant "What's New" section which is not customized, and is a slightly remixed version of CNN to create panic, fear of missing out, or something else, LinkedIn fails as a feed.
-
-
-
-Not to mention the spam. The spam is constantly there, and it definitely sucks. The networks don't make sense, like they do on Twitter.
-
-Undoubtedly, there is some value in it. 
 
 > LinkedIn is genuinely not ready for employees of tomorrow, the future of work, or the economy of tomorrow.
 
