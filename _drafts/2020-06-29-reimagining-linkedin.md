@@ -15,7 +15,7 @@ This isn't about minor things like interface changes and some broken features in
 
 Let's get to it.
 
-# The Problems
+# The Problem
 
 There are two sets of problems with LinkedIn. The surface is what we see and what annoys us the most. The second is more philosophical. It is about the metaphors and narratives that are implicitly baked into the product and service. These are the roots of not only a broken product, but a broken approach to work itself.
 
@@ -25,7 +25,7 @@ _(Yes, I know they are not strict social networks.)_
 
 ## User as a Product, Advertiser/Recruiter as Customer
 
-On LinkedIn, you are the product. This would not be so bad in and of itself, if it provided enough positive value to the user. However, it dramatically reduces the usefulness of the platform for the users themselves in a few key ways.
+On LinkedIn, you are the product. This would not be so bad in and of itself, if it provided enough positive value to the user. However, it dramatically reduces the usefulness of the platform for the users themselves in a few key ways. This is the main 
 
 ### Broken Way of Relating to Others
 
@@ -55,7 +55,13 @@ When you commoditize yourself, you can't help but feel slightly dehumanized. It 
 
 This has given rise to an entire cottage industry of people whose entire job is to help you hack, fix, push, pull the levers of LinkedIn. This would be okay if it were companies trying to optimize for customers and potential candidates. But it is candidates themsleves who are commoditizing themselves. It is slightly shocking that people pay for the privelege of becoming more of a neat product.
 
-**Most people don't want to think of themselves as a brand**.
+**Most people don't want to think of themselves as a brand**. This brand-building myth has given rise to the over-inflated profiles that verge on the side of looking like spam. But once again, who's noticing, since that's all a mess anyways.
+
+For 95% of the people out there, their personal brands can simply be what they've learned, what they can do, and what they would want to learn and what they would like to do. And Lynda is an interesting platform, but it remains inaccessible to the majority of users who do not have a pro account.
+
+Similarly, LinkedIn Groups are either silent ghost towns, or a self-promotional spam-fest of users shouting into the void to other self-promoters.
+
+### Broken Experience
 
 And since you are the product and the customer is the advertiser, this fuels the spammy messages that we get on there. As [John Biggs](https://twitter.com/johnbiggs) puts it, "LinkedIn is a spam garden full of misspelled, grunty requests from international software houses that are looking, primarily, to sell you services."
 
