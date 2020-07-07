@@ -25,15 +25,37 @@ _(Yes, I know they are not strict social networks.)_
 
 ## User as a Product, Advertiser/Recruiter as Customer
 
-On LinkedIn, you are the product. This would not be so bad in and of itself, if it provided enough positive value to the user. However, it commoditizes people and forces them to act in stiff and artificial ways.
+On LinkedIn, you are the product. This would not be so bad in and of itself, if it provided enough positive value to the user. However, it dramatically reduces the usefulness of the platform for the users themselves in a few key ways.
 
-This is the heart of what makes LinkedIn broken. Like filling out a resume, you create a static profile which you can periodically update. You add your friends from college, from work, from the places you volunteer, etc. Someone might even leave an endorsement. You are forced to encapsulate a static version of who you are. 
+### Broken Way of Relating to Others
+
+While the network of people you know can help you with your professional career, there is no organizing principle behind how you relate to people on LinkedIn. All connections are alike. This gives rise to some of the most tedious features on the site.
+
+First, it muddies the experience of the feed. Say you are not a lawyer or have anything to do with the legal field at all. But your friend Michael is a lawyer. Michael constantly posts updates about the legal field. This makes his posts on your feed mostly useless. You cannot focus on the things you wish to learn, to grow in, etc. (Yes, I know there's an option to unfollow him so that I stop seeing his posts, but that's besides the point). What should have been a rich source of news, articles, help in things that matter to you all blurs into a mix of sameness.
+
+Second, it gives rise to virtue signaling and bland content. The feed on LinkedIn is like a giant market where people are mostly confused about what to share so they are forced to virtue signal. This is why we get either dreadfully boring industry news about completely unrelated fields on our timeline from friends, or we get the useless posts about the inspiring wisdom of billionaires with #so #many #hashtags #to #make #it #noticeable #to #others. If people don't know who or what they're posting to, then what gets shared is not useful to anyone. So you post the absolute generic with no value.
+
+This doesn't even count the "Breaking News" section on the top left corner that highlights click-baity news. While it is meant to be informative, it is not context driven, or user driven.
+
+Finally, it gives rise to artificial connections. You can either choose to accept connection requests from just the people you know well to curate your relationships carefully, but that reduces the value of **the network** (network effects). 
+
+On the opposite spectrum, if you accept everyone's request, you drown in requests and the whole experience ends up being a spam filled mess.
+
+It's a Catch-22. Connect with discretion, you lose. Connect with all, you lose.
+
+### Broken Way of Representing Yourself
+
+Like filling out a resume, you create a static profile which you can periodically update. You add your friends from college, from work, from the places you volunteer, etc. Someone might even leave an endorsement. You are forced to encapsulate a static version of who you are. 
+
+It commoditizes people and forces them to act in stiff and artificial ways. We already saw its effects above in the form of artificial networking and virtue signaling. Instead of building a professional profile which can be dynamic, and just as much about what you want to be and where you want to grow into professionally, LinkedIn favors the past and static you.
 
 Throughout all this, you are distinctly aware that you are a product that is here to sell yourself to others. This clouds your attitudes and actions on the platform.
 
 When you commoditize yourself, you can't help but feel slightly dehumanized. It forces people to be fake. It makes them optimize for ATS algorithms for a job, and not for genuine connection or learning. 
 
 This has given rise to an entire cottage industry of people whose entire job is to help you hack, fix, push, pull the levers of LinkedIn. This would be okay if it were companies trying to optimize for customers and potential candidates. But it is candidates themsleves who are commoditizing themselves. It is slightly shocking that people pay for the privelege of becoming more of a neat product.
+
+**Most people don't want to think of themselves as a brand**.
 
 And since you are the product and the customer is the advertiser, this fuels the spammy messages that we get on there. As [John Biggs](https://twitter.com/johnbiggs) puts it, "LinkedIn is a spam garden full of misspelled, grunty requests from international software houses that are looking, primarily, to sell you services."
 
@@ -46,9 +68,7 @@ I believe the future of LinkedIn could still involve making the user the product
 
 ## A Sea of Sameness & Virtue Signalling
 
-The feed on LinkedIn is like a giant market where people are mostly confused about what to share so they are forced to virtue signal. This is why we get either dreadfully boring industry news about completely unrelated fields on our timeline from friends, or we get the useless posts about the inspiring wisdom of billionaires with #so #many #hashtags #to #make #it #noticeable #to #others.
 
-This doesn't even count the "Breaking News" section on the top left corner that highlights click-baity news. While it is meant to be informative, it is not context driven, or user driven.
 
 The best way to think about LinkedIn is a giant "networking event" where everyone is walking around carrying cards, wearing cheap suits, and people have little booths that they are trying to prop up to propose that they're the best in the world at something.
 
