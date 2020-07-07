@@ -61,22 +61,23 @@ For 95% of the people out there, their personal brands can simply be what they'v
 
 Similarly, LinkedIn Groups are either silent ghost towns, or a self-promotional spam-fest of users shouting into the void to other self-promoters.
 
-### Broken Experience
+### Broken Recruiting
 
-And since you are the product and the customer is the advertiser, this fuels the spammy messages that we get on there. As [John Biggs](https://twitter.com/johnbiggs) puts it, "LinkedIn is a spam garden full of misspelled, grunty requests from international software houses that are looking, primarily, to sell you services."
+To recap so far: When the user is the product, and various networks are all lumped together, you create a feed that doesn't nourish your professional interests (or help you notice enough of the good news about your friends). You also end up either hyper-inflating your profile (BRANDING is what they'd call it) to stand apart from others, or retreat from it altogether. 
 
-This spam filled experience is not just limited to our inbox either. It extends to our feed as well, which is what I will get into next.
+With content, knowledge, ideas, experiences all a jumbled mess, can true talent rise to the top? Do the best candidates rise up from this environment?
 
+LinkedIn's Recruiting Solutions rely heavily on ATS systems, or Application Tracking Systems. It relies on buzzword stuffing in your profile ("but it's supposed to be done organically and naturally!" they'll say).
 
+In the same way that standardized tests only prove the ability of students to give standardized tests, the ATS system helps get candidates who know how to win the ATS game, not the best candidates in and of themselves.
 
-I believe the future of LinkedIn could still involve making the user the product, but more intelligently engaging the users needs. I will go into this later on in this essay.
+Better recruiting would be hyper focused based on networks and interests, and seeing those who are organically contributing the best lessons, engaging with the most content, and growing alone those lines. LinkedIn is not suited for that.
 
+This is not even accounting for the advertiser experience. Since you are the product and the customer is the advertiser, this fuels the spammy messages that we get on there. As [John Biggs](https://twitter.com/johnbiggs) puts it, "LinkedIn is a spam garden full of misspelled, grunty requests from international software houses that are looking, primarily, to sell you services."
 
-## A Sea of Sameness & Virtue Signalling
+This spam filled experience is not just limited to our inbox either. It extends to our feed as well, as I've already discussed above.
 
-
-
-The best way to think about LinkedIn is a giant "networking event" where everyone is walking around carrying cards, wearing cheap suits, and people have little booths that they are trying to prop up to propose that they're the best in the world at something.
+**I believe the future of LinkedIn could still involve making the user the product, but more intelligently engaging the users needs. I will go into this later on in this essay.**
 
 LinkedIn feeds a different type of social media resentment. Like how Instagram makes us self-conscious about our happiness, our physical bodies, our lifestyles, LinkedIn does that to professional success. I'm sorry Gary V, I don't care about your overhyped garbage:
 
