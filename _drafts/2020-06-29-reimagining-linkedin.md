@@ -33,7 +33,7 @@ Kim Kardashian has network effects because she's popular. But just because somet
 
 On LinkedIn, you are the product. This would not be so bad in and of itself, if it provided enough positive value to the user. However, it dramatically reduces the usefulness of the platform for the users themselves in a few key ways. 
 
-Note: **I believe the future of LinkedIn could still involve making the user the product, but more intelligently engaging the users needs and understanding the future of work.**
+_Note: I believe the future of LinkedIn could still involve making the user the product, but more intelligently engaging the users needs and understanding the future of work._
 
 ### Broken Way of Relating to Others
 
