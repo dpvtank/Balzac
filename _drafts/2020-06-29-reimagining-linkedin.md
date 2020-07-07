@@ -67,7 +67,7 @@ This has given rise to an entire cottage industry of people whose entire job is 
 
 **Most people don't want to think of themselves as a brand**. This brand-building myth has given rise to the over-inflated profiles that verge on the side of looking like spam. But once again, who's noticing, since that's all a mess anyways.
 
-Reid Hoffman was perhaps inspired by writing "The Startup of You" to teach us to be brands. I think this brand based thinking has gone far enough. You and I are not brands. We are people. The real question is: how do we let our humanity shine through? I'll answer that later on in this essay.
+I think this brand based thinking has gone far enough. You and I are not brands. We are people. The real question is: how do we let our humanity shine through? I'll answer that later on in this essay.
 
 For 95% of the people out there, their personal brands can simply be what they've learned, what they can do, and what they would want to learn and what they would like to do. And Lynda is an interesting platform, but it remains inaccessible to the majority of users who do not have a pro account.
 
