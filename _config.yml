@@ -25,6 +25,8 @@ tools:
 # Open Graph customization
 opengraph:
   locale:           en_US
+  
+google_analytics: UA-91148894-5
 
 # Links to include in top navigation
 # For external links add external: true
