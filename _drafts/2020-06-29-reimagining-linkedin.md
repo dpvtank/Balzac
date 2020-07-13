@@ -93,6 +93,10 @@ On the other hand, we have a broken advertiser experience. Since you are the pro
 
 This spam filled experience is not just limited to our inbox either. It extends to our feed as well, as I've already discussed above.
 
+**TL;DR**: LinkedIn core problem is in making the end user the product, but without providing enough value to her. It doesn't allow authentic connections. By not being able to differentiate types of relationships you can have and degrees with which you want to connect with someone, your experience ends up being superficial. The same goes for your profile, which has to be static and one-sided to get recruited in the job you have, not the job you want. Finally, it doesn't allow the best profiles to rise to the top for even recruiting, favoring those who are LinkedIn optimizers, not necessarily the best qualified people.
+
+To re-make LinkedIn, we need to first understand what the Future of Work is going to look like.
+
 
 # The Future of Work
 
