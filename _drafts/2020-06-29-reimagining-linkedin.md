@@ -97,10 +97,9 @@ This spam filled experience is not just limited to our inbox either. It extends 
 
 To re-make LinkedIn, we need to first understand what the Future of Work is going to look like.
 
-
 # The Future of Work
 
-The fact is simple: LinkedIn is not ready for the future of work. With its profoundly broken system, it encourages the existing system which makes people miserable, bored, and exhausted from engaging in "professional" networking. LinkedIn reinforces a broken economic system that is being abandoned in droves.
+The fact is simple: LinkedIn is not ready for the future of work. With its broken assumptions, it encourages the existing system which makes people miserable, bored, and exhausted from engaging in "professional" networking.
 
 To remake LinkedIn requires you to understand the future of work. And then create that product experience.
 
@@ -108,18 +107,28 @@ To remake LinkedIn requires you to understand the future of work. And then creat
 
 LinkedIn can be the catalyst for the future of work. It can use its massive number of users to actually create something good, give people a chance to be human, to focus on learning and growth and mutually helping one another. But instead, it optimizes for algorithmic popularity.
 
-In an era where most people dislike their jobs, LinkedIn feeds the machine even more.
+Let's try to understand some how LinkedIn stacks up with the future of work. Whether it empowers the user, or it doesn't.
 
 | Future of Work | LinkedIn |
 | -------------- | -------- |
-| Blend of professional & personal work | Chronological professional work only |
-| Project based | Titled based |
-| Multi-dimensional talents, skills, abilities | One core thing you have to be about |
+| Blend of professional & personal work; uncredentialed | Chronological professional work & credentials at the forefront || Project based | Titled based |
+| Multi-dimensional talents, skills, abilities | One job title, one identity |
 | Continuous Learning based | Credential based |
 | Tapping into new networks & opportunities | All about existing networks |
 | Sharing | Spammy wall of text |
 | Worker in the driver's seat | Spammy, self-promotional experiences |
 | Proactive | Reactive |
+| Centered on the individual | Centered on systems & processes|
+
+Let's dig into this one by one.
+
+LinkedIn currently favors you to have one job title, present one idea of who you are. You optimize your headline, your description, and your education, work experiences, certificates, to all align with one thing. LinkedIn experts tell you to build this one-dimensional profile as well if you want to "network" effectively and get hired. It is about optimizing for keywords. As a result, you are stuck in a tricky position to build a strong profile about what you've done. 
+
+The Future of Work (and even the present) is where people will have multiple job titles, different functions, different roles altogether. It requires that you be able to present a multi-dimensional picture of who you are to different people. You shouldn't have to be just a marketing, or sales, or developer, or strategy person. You want the ability to present yourself fully.
+
+LinkedIn currently favors chronological professional experiences over anything else. But in the future of work, your personal, volunteer, side gig, side projects and businesses will be just as important. Chronology will be less important. LinkedIn doesn't allow you to accurately portray all of this.
+
+
 
 What exactly are skills? Tons of people endorse me for Strategy, but what exactly does that mean? 
 
