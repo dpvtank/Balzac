@@ -6,51 +6,53 @@ comments: true
 ---
 LinkedIn is the kid everyone is forced to play with on the playground, even though nobody wants to. Not because he’s unskilled, but because he makes the game less fun for everyone. He also forces others to play the game only in the way he wants to play.
 
-While this kid’s parents (Reid & Satya) might think “how wonderful it is that everyone is playing with my kid,” they don’t necessarily see how miserable everyone is.
+While this kid’s parents (Reid & Satya) might think “how wonderful it is that everyone is playing with my kid,” they don’t see how miserable everyone is.
 
-However, this kid is smart and can change the rules of the game for the better. He just needs to listen to other kids and understand what they want to play. If he can do that, the entire game can change completely.
+But this kid is smart and can change the rules of the game for the better. He just needs to listen to other kids and understand what they want to play. If he can do that, the entire game can change completely.
 
-He might even find out that others eagerly genuinely **want** to play with him then. To reimagine LinkedIn is to look at the future of work realistically, the role of the individual, work that makes us happy, and the need of the economy that is meant to make us constant learners, connectors, creators, and makers. LinkedIn is not at all ready for this revolution. If anything, LinkedIn is fixed in an old model that keeps things stuck in the past.
+He might even find out that others genuinely **want** to play with him then. To reimagine LinkedIn is to look at the future of work, the role of the individual, work that makes us happy, and the need of the economy that makes us constant learners, connectors, creators, and makers. LinkedIn is not at all ready for this revolution. If anything, LinkedIn remains fixed in an old model that keeps things stuck in the past.
 
 In this essay, I want to go over what’s broken about LinkedIn, the future of work, and how LinkedIn can become a formidable player in this new economy.
 
-This isn’t about minor things like interface changes and some broken features in the mobile app, but an entirely different philosophy.
+This isn’t about minor things like interface changes and some broken features in the mobile app, but a  different philosophy altogether.
 
 Let’s get to it.
 
 # The Problems
 
-There are surface issues with LinkedIn, and they stem from a more profound underlying philosophy, metaphor, and narrative that are implicitly baked into the product and service. These are the roots of not only a broken product but a broken approach to work itself.
+There are surface issues with LinkedIn, and they stem from a more profound underlying philosophy, metaphor, and narrative that are baked into the product and service. These are the roots of not only a broken product but a broken approach to work itself.
 
 In this section, I want to discuss where LinkedIn has left its users behind and left a vast chasm of unmet needs.
 
-As I go through these details, a note to those reading this internally that the metrics might show a different story. However, I do not believe high engagement necessarily means positive feelings and opinions about LinkedIn. Its leaders should note that metrics that emerge from compulsion do not indicate a healthy ecosystem. There’s a reason why alternative networks are popping up that tackle this challenge differently, and they are growing fast. Companies like [BlueCrew](https://bluecrewjobs.com) and [Jobcase](https://jobcase.com), even though they are focused on blue-collar jobs, are doing a much better job (pun fully intended) at understanding the needs of its users.
+As I go through these details, a note to those reading this inside LinkedIn that the metrics might show a different story. However, I do not believe high engagement show positive feelings and opinions about LinkedIn. Its leaders should note that metrics that emerge from compulsion do not indicate a healthy ecosystem. There’s a reason why alternative networks are popping up that tackle this challenge differently, and they are growing fast. Companies like [BlueCrew](https://bluecrewjobs.com) and [Jobcase](https://jobcase.com), even though focused on blue-collar jobs, are doing a much better job at understanding the needs of its users.
 
 _(Yes, I know they are not strict social networks.)_
 
 > What's the point of network effects if everyone dislikes your product and feel forced to use it anyways?
 
-Kim Kardashian has network effects because she’s famous. But just because something is popular (a cruder way of saying less popular), doesn’t make it useful.
+Kim Kardashian has network effects because she’s famous. But just because something is popular, doesn’t make it useful.
 
 ## User as a Product, Advertiser/Recruiter as Customer
 
-On LinkedIn, you are the product. This would not be so bad in and of itself if it provided enough positive value to the user. However, it dramatically reduces the usefulness of the platform for the users themselves in a few key ways.
+On LinkedIn, you are the product. This would not be so bad in and of itself if it provided enough positive value to the user. However, it reduces the usefulness of the platform for the users themselves in a few key ways.
 
-_Note: I believe LinkedIn’s future could still involve making the user the product but more intelligently engaging the users’ needs and understanding the future of work._
+_Note: LinkedIn’s future can still involve making the user the product but engaging the users’ needs and understanding the future of work._
 
 ### Broken Way of Relating to Others
 
 While the network of people you know can help you with your professional career, there is no organizing principle behind how you relate to people on LinkedIn. All connections are alike. This gives rise to some of the most tedious features on the site.
 
-First, it muddies the experience of the feed. Say you are not a lawyer or have anything to do with the legal field at all. But your friend Michael is a lawyer. Michael always posts updates about the legal field. This makes his posts on your feed mostly useless. You cannot focus on the things you wish to learn, grow in, etc. (Yes, I know there’s an option to unfollow him so that I stop seeing his posts, but that’s beside the point). What should have been a rich source of news, articles, help in things that matter to you instead blurs into a mix of sameness.
+First, it muddies the experience of the feed. Say you are not a lawyer or have anything to do with the legal field at all. But your friend Michael is a lawyer. Michael always posts updates about the legal field. This is makes his posts on your feed irrelevant. You cannot focus on the things you wish to learn, grow in, etc. (Yes, I know there’s an option to unfollow him so that I stop seeing his posts, but that’s beside the point). What should have been a rich source of news, articles, help in things that matter to you instead blurs into a mix of sameness.
 
-Second, it gives rise to virtue signaling and bland content. The LinkedIn feed is like a display of confusing billboards where people are don’t know what to share. This is why we get either dreadfully boring industry news about completely unrelated fields on our timeline from friends or useless posts about the inspiring wisdom of billionaires with #so #many #hashtags #to #make #it #noticeable #to #others. If people don’t know who or what they’re posting to, then what gets shared is not useful. So you post the absolute generic with no value.
+Second, it gives rise to virtue signaling and bland content. The LinkedIn feed is like a display of confusing billboards where people are don’t know what to share. This is why we get either boring industry news about completely unrelated fields on our timeline from friends or useless posts about the inspiring wisdom of billionaires with #so #many #hashtags #to #make #it #noticeable #to #others. If people don’t know who or what they’re posting to, then what gets shared is not useful. So you post the absolute generic with no value.
 
 LinkedIn also feeds a different type of social media resentment. Like how Instagram makes us self-conscious about our happiness, physical bodies, and lifestyles, LinkedIn does that to professional success. I have had countless conversations with people of varying work experiences who feel a crushing sense of being left behind seeing out-of-context moves of their colleagues. The artificial and canned response only adds to this type of broken and artificial relating with others.
 
 This doesn’t even count the “Breaking News” section on the top left corner that highlights click-bait anxiety-producing news. While it is meant to be informative, it is not context-driven, or user-driven. Constructive Journalism might be a potential solution here.
 
-Finally, it gives rise to artificial connections. You can choose to accept connection requests from just the people you know well to curate your relationships carefully, but that reduces the value of the network (network effects).
+LinkedIn Groups are no better. They are either silent ghost towns or a self-promotional spam-fest of users shouting into the void to other self-promoters.
+
+Finally, it gives rise to artificial connections. You can choose to accept connection requests from only the people you know well to curate your relationships, but that reduces the value of the network (network effects).
 
 On the opposite spectrum, if you accept everyone’s request, you drown in requests, and the whole experience ends up being a spam-filled mess.
 
@@ -60,22 +62,20 @@ It’s a Catch-22. Connect with discretion, you lose. Connect with all, you lose
 
 Like filling out a resume, you create a static profile which you can periodically update. You add your friends from college, from work, from the places you volunteer, etc. Someone might even leave an endorsement. You are forced to encapsulate a static version of who you are.
 
-It commoditizes people and forces them to act in stiff and artificial ways. We already saw its effects above in the form of artificial networking and virtue signaling. Instead of building a professional profile that can be dynamic and about what you want to be and where you want to grow professionally, LinkedIn favors the past and static you.
+It commoditizes people and forces them to act in stiff and artificial ways. We already saw its effects above in the form of artificial networking and virtue signaling. Instead of building a professional profile that can be dynamic and about what you want to be and where you want to grow, LinkedIn favors the past and static you.
 
-Throughout all this, you are distinctly aware that you are a product that is here to sell yourself to others. This clouds your attitudes and actions on the platform.
+Throughout all this, you feel that that you are a product who is here to sell to others. This clouds your attitudes and actions on the platform.
 
-When you commoditize yourself, you can’t help but feel slightly dehumanized. It forces people to be fake. It makes them optimize for ATS algorithms for a job, and not for genuine connection or learning.
+When you commoditize yourself, you can’t help but feel somewhat dehumanized. It forces people to be fake. It makes them optimize for ATS algorithms for a job, and not for genuine connection or learning.
 This has given rise to an entire cottage industry of people whose entire job is to help you hack, fix, push, pull the levers of LinkedIn. 
 
-This would be okay if it were companies trying to optimize for customers and potential candidates. But it is candidates themselves who are commoditizing themselves. It is slightly shocking that people pay for the privilege of becoming more of a neat product.
+This would be okay if it were companies trying to optimize for customers and potential candidates. But it is candidates themselves who are commoditizing themselves. It is shocking that people pay for the privilege of becoming more of a neat product.
 
 **Most people don’t want to think of themselves as a brand.** This brand-building myth has given rise to the over-inflated profiles that verge on the side of looking like spam. But once again, who’s noticing, since that’s all a mess anyways.
 
-I think this brand based thinking has gone far enough. You and I are not brands. We are people. The real question is: how do we let our humanity shine through? I’ll answer that later on in this essay.
+This brand based thinking has gone far enough. You and I are not brands. We are people. The real question is: how do we let our humanity shine through? I’ll answer that later on in this essay.
 
-For 95% of the people out there, their personal brands can simply be what they’ve learned, can do, and what they’d want to learn and what they would like to do. And Lynda is an exciting platform, but it remains inaccessible to most users who do not have a pro account.
-
-Similarly, LinkedIn Groups are either silent ghost towns or a self-promotional spam-fest of users shouting into the void to other self-promoters.
+For 95% of the people out there, their personal brands can be what they’ve learned, can do, and what they’d want to learn and what they would like to do, their contributions and ever growing knowledge and connections in a certain topic. And Lynda is an exciting platform, but it remains inaccessible to most users who do not have a pro account.
 
 ### Broken Recruiting
 
@@ -83,21 +83,21 @@ To recap so far: When the user is the product, and various networks are all lump
 
 With content, knowledge, ideas, experiences all a jumbled mess, can genuine talent rise to the top? Do the best candidates rise up from this environment?
 
-LinkedIn’s Recruiting Solutions rely heavily on ATS systems or Application Tracking Systems. It relies on buzzword stuffing in your profile (“but it’s supposed to be done organically and naturally!” they’ll say).
+LinkedIn’s Recruiting Solutions relies on ATS systems or Application Tracking Systems. It relies on buzzword stuffing in your profile (“but it’s supposed to be done organically and naturally!” they’ll say).
 
 In the same way that standardized tests only prove students’ ability to give standardized tests, the ATS system helps get candidates who know how to win the ATS game, not the best candidates in and of themselves.
 
 Better recruiting would be hyper-focused based on networks and interests and seeing those who are organically contributing the best lessons, engaging with the most content, and growing along those lines. LinkedIn is not suited for that. I will propose a network-driven solution to recruiting later on in the essay that goes into this in more detail.
 
-This old recruiting model is static and does not always allow the candidates who are learning, growing, and increasingly resorting to unconventional means to gather experience. Projects, side startups, online hustles, volunteer work, etc. are other parts of what makes a person a person.
+This old recruiting model is static and does not always allow the candidates who are learning, growing, and resorting to unconventional means to gather experience. Projects, side startups, online hustles, volunteer work, etc. are other parts of what makes a person a person.
 
-These valuable experiences, skills, and results are mostly ignored in a product that favors the discrete chronological separation of professional experiences alone.
+These valuable experiences, skills, and results are ignored in a product that favors the discrete chronological separation of professional experiences alone.
 
 On the other hand, we have a broken advertiser experience. Since you are the product and the customer is the advertiser, this fuels the spammy messages we get there. As [John Biggs](https://twitter.com/johnbiggs) puts it, "LinkedIn is a spam garden full of misspelled, grunty requests from international software houses that are looking, primarily, to sell you services."
 
-This spam-filled experience is not just limited to our inbox. It extends to our feed as well, as I’ve already discussed above.
+This spam-filled experience is not only limited to our inbox. It extends to our feed as well, as I’ve already discussed above.
 
-**TL;DR**: LinkedIn’s core problem is making the end-user the product, but without providing enough value to her. It doesn’t allow authentic connections. By not being able to differentiate types of relationships you can have and degrees with which you want to connect with someone, your experience ends up being superficial. The same goes for your profile, which has to be static and one-sided to get recruited in the job you have, not the job you want. Finally, it doesn’t allow the best profiles to rise to the top for even recruiting, favoring LinkedIn optimizers, not necessarily the best-qualified people.
+**TL;DR**: LinkedIn’s core problem is making the end-user the product, but without providing enough value to her. It doesn’t allow authentic connections. By not being able to differentiate types of relationships you can have and degrees with which you want to connect with someone, your experience ends up being superficial. The same goes for your profile, which has to be static and one-sided to get recruited in the job you have, not the job you want. Finally, it doesn’t allow the best profiles to rise to the top for even recruiting, favoring LinkedIn optimizers, not the best-qualified people.
 To re-make LinkedIn, we need first to understand what the Future of Work is going to look like.
 
 To re-make LinkedIn, we need to first understand what the Future of Work is going to look like.
@@ -106,7 +106,7 @@ To re-make LinkedIn, we need to first understand what the Future of Work is goin
 
 The fact is simple: LinkedIn is not ready for the future of work. With its broken assumptions, it encourages the existing system, making people miserable, bored, and exhausted from engaging in “professional” networking.
 
-LinkedIn can be the catalyst for the future of work. It can use its massive number of users to actually create something good, give people a chance to be human, to focus on learning and growth and mutually helping one another. But instead, it optimizes for algorithmic popularity.
+LinkedIn can be the catalyst for the future of work. It can use its massive number of users to actually create something good, give people a chance to be human, to focus on learning and growth and helping one another. But instead, it optimizes for algorithmic popularity.
 
 Let’s try to understand how LinkedIn stacks up with the future of work. Whether it empowers the user, or it doesn’t.
 
@@ -122,11 +122,12 @@ Let’s try to understand how LinkedIn stacks up with the future of work. Whethe
 
 Let's dig into this one by one.
 
-LinkedIn currently favors you to have one job title, present one idea of who you are. You optimize your headline, your description, and your education, work experiences, and certificates to align with one thing. LinkedIn experts tell you to build this one-dimensional profile as well if you want to “network” effectively and get hired. It is about optimizing for keywords. As a result, you are stuck in a tricky position to build a strong profile about what you’ve done.
+LinkedIn currently favors you to have one job title, present one idea of who you are. You optimize your headline, your description, and your education, work experiences, and certificates to align with one thing. LinkedIn experts tell you to build this one-dimensional profile as well if you want to “network” well and get hired. It is about optimizing for keywords. As a result, you are stuck in a tricky position to build a strong profile about what you’ve done.
 
 The Future of Work (and even the present) is where people will have multiple job titles, different functions, different roles altogether. It requires that you be able to present a multi-dimensional picture of who you are to different people. You shouldn’t have to be just a marketing, or a sales, or a developer, or a strategy person. You want the ability to present yourself fully. LinkedIn doesn’t have this yet.
 
-LinkedIn currently favors chronological professional experiences over anything else. But in the future of work, your personal, volunteer, side gig, side projects, and businesses will be just as relevant. The chronology will be less critical. LinkedIn doesn’t allow you to portray all of this accurately.
+LinkedIn currently favors chronological professional experiences over anything else. But in the future of work, your personal, volunteer, side gig, side projects, and businesses will be just as relevant. The chronology will be less critical. LinkedIn doesn’t allow you to portray this accurately.
+
 The future of work also requires constant learning, sharing, and more organic networking based on interests and contributions. LinkedIn currently favors formal credentials, and taking courses on Lynda in its “Pro” account. 
 
 The future of work requires that people learn organically from each other and contribute to the conversation (dialectics as a form of learning). LinkedIn’s wall or stream of messages is currently haphazard and doesn’t allow for this form of dialectical learning. Instead, it focuses on spammy or dreadfully boring industry topic PR type sharing or generalities that verge on fluff pieces.
@@ -135,7 +136,7 @@ The future of work will put the individual in the driver’s seat. She will seek
 
 Finally, the future of work will require much more organic networking. It will require people to dip in and out of their interests, join the conversation when it makes sense, and connect with people in degrees. LinkedIn currently only allows either a direct connection, a soft follow (not available on all profiles), or nothing.
 
-I believe all of these things create a substantial amount of friction in the user experience. These points of friction make using LinkedIn a miserable experience.
+All of these things create substantial friction in the user experience. These points of friction make using LinkedIn a miserable experience.
 
 What if we could re-frame all this and put the user at the heart of the experience? What if we can empower her to network organically, learn and grow, and position herself for unique models of work and roles, functions, and industries that she wants, as opposed to where she’s been.
 
@@ -156,11 +157,11 @@ It starts with the profile. When a user creates an account, let her think of her
 
 > Hope hooks the heart more than algorithmic gamification.
 
-I think Twitter gets this right. Upon joining Twitter, you can choose your interests and immediately get a useful curation of the top people and ideas by those people. LinkedIn really misses out on not having this option. Let the user follow the topics that interest her. This includes the areas she is already experienced in and areas that she would like to learn more about.
+Twitter gets this right. Upon joining Twitter, you can choose your interests and immediately get a useful curation of the top people and ideas by those people. LinkedIn misses out on not having this option. Let the user follow the topics that interest her. This includes the areas she is already experienced in and areas that she would like to learn more about.
 
-This is not the same as following company pages. This is about “streams” or topics of interest. Currently, the only existing framework for this is LinkedIn groups, but they have mostly proven ineffective. I believe this can be akin to Twitter Lists. You can form “streams” about topics you want to dip into, people who are talking and writing about certain things.
+This is not the same as following company pages. This is about “streams” or topics of interest. Currently, the only existing framework for this is LinkedIn groups, but they have proven ineffective. This can be akin to Twitter Lists. You can form “streams” about topics you want to dip into, people who are talking and writing about certain things.
 
-The current wall of text is primarily from your connections and either stand on either the dreadfully boring or far too general. But most of us have a variety of colleagues who are doing a variety of things. I do not believe this is the form of a network that is useful to us.
+The current wall of posts come from your connections and either stand on either the boring or far too general. But most of us have a variety of colleagues who are doing a variety of things. I do not believe this is the form of a network that is useful to us.
 
 Give me the ability to dip into my “personal connections” stream if I want to, so I can see how my friends are doing professionally. But most of my time should be spent on the streams on topics that interest me.
 
@@ -184,23 +185,23 @@ This means people can engage with you across different dimensions. This means re
 
 This system rewards the engaged, not the ATS optimized individuals. This is what networking was meant to be! This is a better proxy of networking than ever before.
 
-Let individuals recommend contributors, and commenters recommend one another for recruiting directly on the platform. Let a person just be able to make a post on the “stream” and have the recommendations and applications come in.
+Let individuals recommend contributors, and commenters recommend one another for recruiting right on the platform. Let a person be able to make a post on the “stream” and have the recommendations and applications come in.
 
 Expanding on the idea of networks and connections, LinkedIn would offer the ability to separate your personal connections with your professional connections. This goes back to the idea of “streams” above. You don’t want to or need to read about your lawyer friend’s paper on some obscure topic you don’t understand. You should be able to read from the “personal” stream if you want to, but this shouldn’t be front and center.
 
 You should still be able to connect with your friends and colleagues, but determine which “stream” they fall belong in. And then the content you receive should be based on your “stream” with the ability to switch between streams if you like.
 
-I believe this will significantly elevate LinkedIn into a learning first platform while maintaining the significant power of networks that it already allows you to have.
+This will elevate LinkedIn into a learning first platform while maintaining the significant power of networks that it already allows you to have.
 
 ## Revenue Streams
 
 LinkedIn can monetize these distinct streams with sponsored posts. But because it is not being micro-targeted into streams, it can actually be a lot more effective.
 
-LinkedIn can also provide a similar experience like right now with its Pro account. I believe Lynda and the existing Pro account features are excellent in their own right.
+LinkedIn can also provide a similar experience like right now with its Pro account. Lynda and the existing Pro account features are excellent in their own right.
 
-Finally, LinkedIn still has the potential to help recruiters find great candidates. But it needs to expand the scope of recruiting from just ATS optimized profiles to deeply engaged candidates in topics/streams. This is about capturing the interest, knowledge, leadership, and engagement of the user even if they do not have strict professional experience in the space.
+Finally, LinkedIn still has the potential to help recruiters find great candidates. But it needs to expand the scope of recruiting from just ATS optimized profiles to engaged candidates in topics/streams. This is about capturing the interest, knowledge, leadership, and engagement of the user even if they do not have strict professional experience in the space.
 
-I believe this also gives companies a direct path to the right candidates. Companies can create contests, recruitment challenges, gigs, and other incentives to hire and find great people.
+This also gives companies a direct path to the right candidates. Companies can create contests, recruitment challenges, gigs, and other incentives to hire and find great people.
 
 # Conclusion
 
