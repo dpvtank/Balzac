@@ -24,7 +24,7 @@ There are surface issues with LinkedIn, and they stem from a more profound under
 
 In this section, I want to discuss where LinkedIn has left its users behind and left a vast chasm of unmet needs.
 
-As I go through these details, a note to those reading this inside LinkedIn that the metrics might show a different story. However, I do not believe high engagement show positive feelings and opinions about LinkedIn. Its leaders should note that metrics that emerge from compulsion do not indicate a healthy ecosystem. There’s a reason why alternative networks are popping up that tackle this challenge differently, and they are growing fast. Companies like [BlueCrew](https://bluecrewjobs.com) and [Jobcase](https://jobcase.com), even though focused on blue-collar jobs, are doing a much better job at understanding the needs of its users.
+As I go through these details, a note to those reading this inside LinkedIn that the metrics might show a different story. However, I do not believe high engagement show positive feelings and opinions about LinkedIn. Its leaders should note that metrics that emerge from compulsion do not show a healthy ecosystem. There’s a reason why alternative networks are popping up that tackle this challenge differently, and they are growing fast. Companies like [BlueCrew](https://bluecrewjobs.com) and [Jobcase](https://jobcase.com), even though focused on blue-collar jobs, are doing a much better job at understanding the needs of its users.
 
 _(Yes, I know they are not strict social networks.)_
 
@@ -34,7 +34,7 @@ Kim Kardashian has network effects because she’s famous. But just because some
 
 ## User as a Product, Advertiser/Recruiter as Customer
 
-On LinkedIn, you are the product. This would not be so bad in and of itself if it provided enough positive value to the user. However, it reduces the usefulness of the platform for the users themselves in a few key ways.
+On LinkedIn, you are the product. This would not be so bad in and of itself if it provided enough positive value to the user. This isn't so. LinkedIn is a friction-heavy platform for the users themselves in a few key ways.
 
 _Note: LinkedIn’s future can still involve making the user the product but engaging the users’ needs and understanding the future of work._
 
@@ -93,7 +93,7 @@ This old recruiting model is static and does not always allow the candidates who
 
 These valuable experiences, skills, and results are ignored in a product that favors the discrete chronological separation of professional experiences alone.
 
-On the other hand, we have a broken advertiser experience. Since you are the product and the customer is the advertiser, this fuels the spammy messages we get there. As [John Biggs](https://twitter.com/johnbiggs) puts it, "LinkedIn is a spam garden full of misspelled, grunty requests from international software houses that are looking, primarily, to sell you services."
+We also have a broken advertiser experience. Since you are the product and the customer is the advertiser, this fuels the spammy messages we get there. As [John Biggs](https://twitter.com/johnbiggs) puts it, "LinkedIn is a spam garden full of misspelled, grunty requests from international software houses that are looking, primarily, to sell you services."
 
 This spam-filled experience is not only limited to our inbox. It extends to our feed as well, as I’ve already discussed above.
 
@@ -124,7 +124,7 @@ Let's dig into this one by one.
 
 LinkedIn currently favors you to have one job title, present one idea of who you are. You optimize your headline, your description, and your education, work experiences, and certificates to align with one thing. LinkedIn experts tell you to build this one-dimensional profile as well if you want to “network” well and get hired. It is about optimizing for keywords. As a result, you are stuck in a tricky position to build a strong profile about what you’ve done.
 
-The Future of Work (and even the present) is where people will have multiple job titles, different functions, different roles altogether. It requires that you be able to present a multi-dimensional picture of who you are to different people. You shouldn’t have to be just a marketing, or a sales, or a developer, or a strategy person. You want the ability to present yourself fully. LinkedIn doesn’t have this yet.
+The Future of Work (and even the present) is where people will have many job titles, different functions, different roles altogether. It requires that you be able to present a multi-dimensional picture of who you are to different people. You shouldn’t have to be just a marketing, or a sales, or a developer, or a strategy person. You want the ability to present yourself fully. LinkedIn doesn’t have this yet.
 
 LinkedIn currently favors chronological professional experiences over anything else. But in the future of work, your personal, volunteer, side gig, side projects, and businesses will be just as relevant. The chronology will be less critical. LinkedIn doesn’t allow you to portray this accurately.
 
@@ -132,11 +132,11 @@ The future of work also requires constant learning, sharing, and more organic ne
 
 The future of work requires that people learn organically from each other and contribute to the conversation (dialectics as a form of learning). LinkedIn’s wall or stream of messages is currently haphazard and doesn’t allow for this form of dialectical learning. Instead, it focuses on spammy or dreadfully boring industry topic PR type sharing or generalities that verge on fluff pieces.
 
-The future of work will put the individual in the driver’s seat. She will seek and carve out opportunities for herself, not in the hands of recruiters and organizations. There is a place for this, but LinkedIn’s current system is about either finding jobs or nothing at all. Even though you can indicate other job types you want, the costs associated with posting (and I don’t just mean financial expenses) don’t allow for non-traditional work offers to flow freely. This means gigs, side projects, finding co-founders, etc. On top of it all, it costs people even to send InMail messages.
+The future of work will put the individual in the driver’s seat. She will seek and carve out opportunities for herself, not in the hands of recruiters and organizations. There is a place for this, but LinkedIn’s current system is about either finding jobs or nothing at all. Even though you can pick different job titles or work arrangements, the costs associated with posting (and I don’t just mean financial expenses) on the recruiter side don’t allow for non-traditional work offers to flow freely. This means gigs, side projects, finding co-founders, etc. On top of it all, it costs people even to send InMail messages.
 
-Finally, the future of work will require much more organic networking. It will require people to dip in and out of their interests, join the conversation when it makes sense, and connect with people in degrees. LinkedIn currently only allows either a direct connection, a soft follow (not available on all profiles), or nothing.
+Finally, the future of work requires much more organic networking. It requires people to dip in and out of their interests, join the conversation when it makes sense, and connect with people in degrees. LinkedIn currently only allows either a direct connection, a soft follow (not available on all profiles), or nothing.
 
-All of these things create substantial friction in the user experience. These points of friction make using LinkedIn a miserable experience.
+All of these things create much friction in the user experience. These points of friction make using LinkedIn a miserable experience.
 
 What if we could re-frame all this and put the user at the heart of the experience? What if we can empower her to network organically, learn and grow, and position herself for unique models of work and roles, functions, and industries that she wants, as opposed to where she’s been.
 
@@ -173,7 +173,7 @@ When your post isn’t blasted into a nebulous void of everyone you are connecte
 
 This is also the perfect way for anyone to organically join a conversation about an industry they know a lot about and something they are just exploring. They can comment on threads, comment on conversations, and start building an organic network of people they like to follow. Whose ideas resonate with them.
 
-Think Twitter, but more substantial. Not tweet threads, not empty nothing, but real conversations. Let him dip in and out of his groups. His college group, his professional group, his volunteer group, sure. But also his marketing group, his whatever group. The group can be the central point of consuming, sharing, and contributing to the content.
+Think Twitter, but with more substance in each post. Not tweet threads, not empty nothing, but real conversations. Let him dip in and out of his groups. His college group, his professional group, his volunteer group, sure. But also his marketing group, his whatever group. The group can be the central point of consuming, sharing, and contributing to the content.
 
 This is about organic networking done based on ideas. This also means that your profile can have distinct sections:
 
