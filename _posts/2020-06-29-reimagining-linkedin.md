@@ -109,7 +109,8 @@ Let's try to understand some how LinkedIn stacks up with the future of work. Whe
 
 | Future of Work | LinkedIn |
 | -------------- | -------- |
-| Blend of professional & personal work; uncredentialed | Chronological professional work & credentials at the forefront || Project based | Titled based |
+| Blend of professional & personal work; uncredentialed | Chronological professional work & credentials at the forefront |
+| Project based | Titled based |
 | Multi-dimensional talents, skills, abilities | One job title, one identity |
 | Continuous Learning based | Credential based |
 | Tapping into new networks & opportunities | All about existing networks |
