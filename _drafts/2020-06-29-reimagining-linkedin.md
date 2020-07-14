@@ -136,7 +136,7 @@ Let's find out a solution
 
 # Reimagining LinkedIn (The Solution)
 
-We are humans and we need a different language and a metaphor. We need to think in terms of authenticity. A reimagined Linked should flow from 4 premises:
+A reimagined Linked should flow from 4 premises:
 
 1. Individuals at the heart.
 2. Learning in streams.
@@ -145,22 +145,52 @@ We are humans and we need a different language and a metaphor. We need to think 
 
 Here's a basic tenet of human psychology that's worth considering. People want to feel approved of. They want to feel useful. They want to feel recognized for what they do. What would a reimagined user experience look like?
 
-## Profile as a Canvas
+## Profile as a Canvas, Learning in Streams
 
-It starts with the profile. When a user creates an account, let her build on a canvas. Make it about her, don't make him into the product. Don't make her fill out a full resume. Make her choose the things she wants, desires, wants to dip into.
+It starts with the profile. When a user creates an account, let her think of her career as a canvas. Make it about her. Don't make her fill out a full resume right away. Make her choose the things she wants, desires, wants to dip into. Most of us aspire for something greater in our professional lives. Give us a chance to hope and dream again. 
 
-People want to grow, evolve, etc. But LinkedIn doesn't allow this. Imagine if you got a way to understand your talents, your passions, your abilities through tests, through talks, through whatever. Imagine if that was the first step of LinkedIn. NOT: let's fill out a resume.
-This would make a person WANT to use LinkedIn. It also changes the tone of what this social network can be. Not a static look at what has been, but what you can be. Hope hooks the heart. LinkedIn right not hooks a self-loating mind.
+> Hope hooks the heart more than algorithmic gamification.
 
-People need to be someone you tap into from time to time. You don't necessarily follow all their updates. Let people join the content creators. 
+I think Twitter gets this right. Upon joining Twitter, you can choose your interests and immediately get a useful curation of the top people and ideas by those people. LinkedIn really misses out on not having this option. Let the user follow the topics that interest her. This includes the areas she is already experienced in, as well as areas that she would like to learn more about.
 
-It needs to be a content first platform. It needs to be about professional learning, and less about professional networking, which has truth-creep at its center (the tendency to exagerate and self-aggrandizement). Demonstrating knowledge is the real means of growth. That's it. Demonstrate knowledge, share your learnings, grow.
+This is not the same as following company pages. This is about "streams" or topics of interest. Currently, the only existing framework for this is through LinkedIn groups, but they have mostly proven to be ineffective. I believe this can be akin to Twitter Lists. You can form "streams" you want to dip into of topics, of people that are talking and writing about certain things.
+
+The current wall of text is primarily from your connections and either stands on either the dreadfully boring or far too general. But most of us have a variety of colleagues who are doing a variety of things. I do not believe this however is the form of network that is useful to us.
+
+Give me the ability to dip into my "personal connections" stream if I want to, so I can see what my friends are up to professionally. But most of my time should be spend on the streams on topics that interest me.
+
+What would streams be about? About articles, ideas, talks, etc from across the Internet. Right now marketers and cryptoheads are aces at this, but other sectors not so much. We need to make LinkedIn into the place to find the world's best content about your particular industry, interest, sector, etc.
+
+**This is the real opportunity to transform LinkedIn into the launching pad for the world's best ideas about the world's different sectors, industries, and functions.**
+
+When your post isn't being blasted out into a nebulous void of everyone you are connected to (including former bosses and colleagues), you have the ability to be a lot more authentic and share ideas that actually matter to you. You can be authentic, you can be conversational. 
+
+This is also the perfect way for anyone to organically join a conversation about an industry they know a lot about, but also something they are just dipping into. They can comment on threads, comment on conversations and start building an organic network of people they like to follow. Whose ideas resonate with them.
+
+Think Twitter, but more substantial. Not tweetthreads, not empty nothing, but real conversations. Let him dip in and out of his groups. His college group, his professional group, his volunteer group, sure. But also his marketing group, his whatever group. The group can be the central point of consuming, sharing, and contributing to content.
+
+This is about organic networking done on the basis of ideas. This also means that your profile can have distinct sections:
+1. A tab for your most recent posts.
+2. A tab for your summary (where you want to be).
+3. A tab for your "profile" (aka existing resume).
+
+This means people can engage with you across different dimensions. This means recruiters can notice you if you're growing in your networks, your knowledge, your contribution in different domains on a more organic basis, NOT on the basis of ATS optimization.
+
+This system rewards the engaged, not the ATS optimized individuals. This is what networking was meant to be! This is a better proxy of networking than ever before.
+
+Let individuals recommend contributors and commentors recommend one another for recruiting directly on the platform. Let a person just be able to make a post on the "stream" and have the recommendations and applications come in.
+
+## Distinct Networks
+
+Expanding on the idea of networks and connections, LinkedIn would offer the ability to separate your personal connections with your professional connections. This goes back to the idea of "streams" above. You don't want to or need to read about your lawyer friend's paper on some obscure topic you don't understand. You should be able to read from the "personal" stream if you want to, but this shouldn't be front and center.
+
+You should still be able to connect with your friends and colleagues, but determine which "stream" they fall into. And then the content you receive should be based on your "stream" with the ability to switch between streams if you like.
+
+I believe this will greatly elevate LinkedIn into a learning first platform, while maintaining the significant power of networks that it already allows you to have.
 
 Is she a developer that wants to get into the business world? Let her 
 
-A blank canvas, and a chance to dip in and out of conversations. Think Twitter, but more substantial. Not tweetthreads, not empty nothing, but real conversations. Let him dip in and out of his groups. His college group, his professional group, his volunteer group, sure. But also his marketing group, his whatever group. The group can be the central point of consuming, sharing, and contributing to content.
 
-Rivers where he can paddle when he wants. Hike when he wants, etc. This is an adventure, this is time in nature. The work of work on social media should not feel like work. It should feel like gardening or like an adventure.
 
 So, say you're into marketing, or perhaps into engineering. Let me dip into the marketing stream. See what people are writing about. If someone catches my eye in that stream, let me comment on her post. Let me follow her. Let me build a connection with her. This relationship works in the context of that stream only. This is not an unsolicated connection request to "network" and then spam.
 
