@@ -101,10 +101,6 @@ To re-make LinkedIn, we need to first understand what the Future of Work is goin
 
 The fact is simple: LinkedIn is not ready for the future of work. With its broken assumptions, it encourages the existing system which makes people miserable, bored, and exhausted from engaging in "professional" networking.
 
-To remake LinkedIn requires you to understand the future of work. And then create that product experience.
-
-> LinkedIn is genuinely not ready for employees of tomorrow, the future of work, nor the economy of tomorrow.
-
 LinkedIn can be the catalyst for the future of work. It can use its massive number of users to actually create something good, give people a chance to be human, to focus on learning and growth and mutually helping one another. But instead, it optimizes for algorithmic popularity.
 
 Let's try to understand some how LinkedIn stacks up with the future of work. Whether it empowers the user, or it doesn't.
@@ -117,16 +113,26 @@ Let's try to understand some how LinkedIn stacks up with the future of work. Whe
 | Tapping into new networks & opportunities | All about existing networks |
 | Sharing | Spammy wall of text |
 | Worker in the driver's seat | Spammy, self-promotional experiences |
-| Proactive | Reactive |
-| Centered on the individual | Centered on systems & processes|
 
 Let's dig into this one by one.
 
 LinkedIn currently favors you to have one job title, present one idea of who you are. You optimize your headline, your description, and your education, work experiences, certificates, to all align with one thing. LinkedIn experts tell you to build this one-dimensional profile as well if you want to "network" effectively and get hired. It is about optimizing for keywords. As a result, you are stuck in a tricky position to build a strong profile about what you've done. 
 
-The Future of Work (and even the present) is where people will have multiple job titles, different functions, different roles altogether. It requires that you be able to present a multi-dimensional picture of who you are to different people. You shouldn't have to be just a marketing, or sales, or developer, or strategy person. You want the ability to present yourself fully.
+The Future of Work (and even the present) is where people will have multiple job titles, different functions, different roles altogether. It requires that you be able to present a multi-dimensional picture of who you are to different people. You shouldn't have to be just a marketing, or sales, or developer, or strategy person. You want the ability to present yourself fully. LinkedIn doesn't have this yet.
 
 LinkedIn currently favors chronological professional experiences over anything else. But in the future of work, your personal, volunteer, side gig, side projects and businesses will be just as important. Chronology will be less important. LinkedIn doesn't allow you to accurately portray all of this.
+
+The future of work also requires constant learning, sharing, and more organic networking based on interests and contribution. LinkedIn currently favors formal credentials, and taking courses on Lynda in its "Pro" account. The future of work requires that people be able to learn organically from each other,  contribute to the conversation (dialectics as a form of learning). Currently, LinkedIn's wall or stream of messages is haphazard and doesn't allow for this form of dialectical learning. It instead focuses on spammy or dreadfully boring industry topic PR type sharing, or generalities that verge on fluff pieces.
+
+The future of work will put the individual in the driver's seat. The individual will seek and carve out opportunities for herself. Right now, LinkedIn puts all the power in the hands of recruiters, organizations, and standardized processes. I believe there is a place for this, but LinkedIn's current system is all about either finding jobs or nothing at all. Even though you can indicate other job types you want, the costs associated with posting (and I don't just mean financial expenses) don't allow for non-traditional work offers to flow freely. This means gigs, side projects, finding co-founders, etc. On top of it all, it costs people to even send InMail messages.
+
+Finally, the future of work will require much more organic networking. It will require people to dip in and out of their interests, join the conversation when it makes sense, and connect with people in degrees. LinkedIn currently only allows either a direct connection, a soft follow (not available on all profiles), or nothing at all.
+
+I believe all of these things creates a heavy amount of friction in the user experience. Its these points of friction that makes using LinkedIn into a miserable experience.
+
+What if we could re-frame all this and put the user at the heart of the experience? What if we can empower her to network organically, learn and grow, and position herself for unique models of work and in roles, functions, and industries that she wants, as opposed to where she's been.
+
+Let's find out a solution
 
 
 
@@ -192,3 +198,5 @@ This would make a person WANT to use LinkedIn. It also changes the tone of what 
 People need to be someone you tap into from time to time. You don't necessarily follow all their updates. Let people join the content creators. 
 
 It needs to be a content first platform. It needs to be about professional learning, and less about professional networking, which has truth-creep at its center (the tendency to exagerate and self-aggrandizement). Demonstrating knowledge is the real means of growth. That's it. Demonstrate knowledge, share your learnings, grow.
+
+Acknowledgements: 
