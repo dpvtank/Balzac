@@ -134,69 +134,34 @@ What if we could re-frame all this and put the user at the heart of the experien
 
 Let's find out a solution
 
-
-
-What exactly are skills? Tons of people endorse me for Strategy, but what exactly does that mean? 
-
-We are humans and we need a different language and a metaphor. We need to think in terms of authenticity. Hollow-selves and hollow-suits.
-
-
-
-Hollow experiences, dehumanizing stiffness are not goods.
-
-So, here we have A Modest Proposal to Re-make LinkedIn.
-
-In writing this, I have 3 goals:
-- Making LinkedIn genuinely useful to professionals, to job seekers and makers.
-- Get genuine usage on LinkedIn. Most posts otherwise are sleazy salesy messages.
-- Make networking more useful.
-- Make job seeking and recruiting easier.
-
-## Useful to Professionals
-
-For something to be useful, it has to be genuine. And genuineness is something that LinkedIn does not promote in any way. 
-
-What about money?
-LinkedIn can run on advertising alone. Not on private messages, but based on feed. The other option is to pay for a pro account which removes advertising, or it enhances the experiences in some other ways.
-
-Here's a basic tenet of human psychology that's worth considering. People want to feel approved of. They want to feel useful. They want to feel recognized for what they do. LinkedIn allows for only the most shallow and hollow way of making that happen.
-
-It starts with the profile. When a user creates an account, let him build on a canvas. Make it about him, don't make him into the product.
-
-A blank canvas, and a chance to dip in and out of conversations. Think Twitter, but more substantial. Not tweetthreads, not empty nothing, but real conversations. Let him dip in and out of his groups. His college group, his professional group, his volunteer group, sure. But also his marketing group, his whatever group. The group can be the central point of consuming, sharing, and contributing to content.
-
-And actually, change the idea of content and instead make it about knowledge.
-
-How does that happen? There are tens of millions of mostly unused and abandoned group. Groups are feeds. They are rivers where a person can dip into it and join anytime he or she wants.
-
-Rivers where he can paddle when he wants. Hike when he wants, etc. This is an adventure, this is time in nature. The work of work on social media should not feel like work. It should feel like gardening or like an adventure.
-
-So, say you're into marketing, or perhaps into engineering. Let me dip into the marketing stream. See what people are writing about. If someone catches my eye in that stream, let me comment on her post. Let me follow her. Let me build a connection with her. This relationship works in the context of that stream only. This is not an unsolicated connection request to "network" and then spam.
-
-Of course at this point, the question becomes, how do you ensure that the topics are swimmable and navigateable? After all, marketing as a worldwide topic is massive and hard to take in. So to counter that, there are 5-10 solutions:
-1. Make it geography limited.
-2. Randomly present the feed, and refine based on engagement.
-3. `
-
-The other thing it needs is perhaps a better set of editors who share the right set of news. Think Economist Espresso, now BuzzFeed level garbage.
-
 # Reimagining LinkedIn (The Solution)
 
+We are humans and we need a different language and a metaphor. We need to think in terms of authenticity. A reimagined Linked should flow from 4 premises:
 
+1. Individuals at the heart.
+2. Learning in streams.
+3. Networking in circles.
+4. All interconnected with content.
 
-The solution?
-A mix of Mighty Networks + Twitter + Wikipedia + Medium.
+Here's a basic tenet of human psychology that's worth considering. People want to feel approved of. They want to feel useful. They want to feel recognized for what they do. What would a reimagined user experience look like?
 
-1. Individuals at the heart
-2. Groups and tribes around the individual
-3. Companies around the groups (multiple groups)
-4. All interconnected with content
+## Profile as a Canvas
 
-1. An individual makes a profile. Not just a static profile, but as aspirational one as well. This is the real value of wanting to use LinkedIn. People want to grow, evolve, etc. But LinkedIn doesn't allow this. Imagine if you got a way to understand your talents, your passions, your abilities through tests, through talks, through whatever. Imagine if that was the first step of LinkedIn. NOT: let's fill out a resume.
+It starts with the profile. When a user creates an account, let her build on a canvas. Make it about her, don't make him into the product. Don't make her fill out a full resume. Make her choose the things she wants, desires, wants to dip into.
+
+People want to grow, evolve, etc. But LinkedIn doesn't allow this. Imagine if you got a way to understand your talents, your passions, your abilities through tests, through talks, through whatever. Imagine if that was the first step of LinkedIn. NOT: let's fill out a resume.
 This would make a person WANT to use LinkedIn. It also changes the tone of what this social network can be. Not a static look at what has been, but what you can be. Hope hooks the heart. LinkedIn right not hooks a self-loating mind.
 
 People need to be someone you tap into from time to time. You don't necessarily follow all their updates. Let people join the content creators. 
 
 It needs to be a content first platform. It needs to be about professional learning, and less about professional networking, which has truth-creep at its center (the tendency to exagerate and self-aggrandizement). Demonstrating knowledge is the real means of growth. That's it. Demonstrate knowledge, share your learnings, grow.
+
+Is she a developer that wants to get into the business world? Let her 
+
+A blank canvas, and a chance to dip in and out of conversations. Think Twitter, but more substantial. Not tweetthreads, not empty nothing, but real conversations. Let him dip in and out of his groups. His college group, his professional group, his volunteer group, sure. But also his marketing group, his whatever group. The group can be the central point of consuming, sharing, and contributing to content.
+
+Rivers where he can paddle when he wants. Hike when he wants, etc. This is an adventure, this is time in nature. The work of work on social media should not feel like work. It should feel like gardening or like an adventure.
+
+So, say you're into marketing, or perhaps into engineering. Let me dip into the marketing stream. See what people are writing about. If someone catches my eye in that stream, let me comment on her post. Let me follow her. Let me build a connection with her. This relationship works in the context of that stream only. This is not an unsolicated connection request to "network" and then spam.
 
 Acknowledgements: 
