@@ -10,17 +10,17 @@ While this kid’s parents (Reid & Satya) might think “how wonderful it is tha
 
 But this kid is smart and can change the rules of the game for the better. He just needs to listen to other kids and understand what they want to play. If he can do that, the entire game can change completely.
 
-He might even find out that others genuinely **want** to play with him then. To reimagine LinkedIn is to look at the future of work, the role of the individual, work that makes us happy, and the need of the economy that makes us constant learners, connectors, creators, and makers. LinkedIn is not at all ready for this revolution. If anything, LinkedIn remains fixed in an old model that keeps things stuck in the past.
+He might even find out that others genuinely **want** to play with him then. Reimagining LinkedIn requires us to look at the future of work, the role of the individual, and the work that makes us happy. LinkedIn is not at all ready for this revolution. If anything, LinkedIn remains fixed in an old model that keeps things stuck in the past.
 
 In this essay, I want to go over what’s broken about LinkedIn, the future of work, and how LinkedIn can become a formidable player in this new economy.
 
-This isn’t about minor things like interface changes and some broken features in the mobile app, but a  different philosophy altogether.
+This is about a different philosophy altogether, not interface changes and some broken features in the mobile app.
 
 Let’s get to it.
 
 # The Problems
 
-There are surface issues with LinkedIn, and they stem from a more profound underlying philosophy, metaphor, and narrative that are baked into the product and service. These are the roots of not only a broken product but a broken approach to work itself.
+The surface issues on LinkedIn stem from an outdated philosophy. These are the roots of not only a broken product but a broken approach to work itself.
 
 In this section, I want to discuss where LinkedIn has left its users behind and left a vast chasm of unmet needs.
 
@@ -42,11 +42,11 @@ _Note: LinkedIn’s future can still involve making the user the product but eng
 
 While the network of people you know can help you with your professional career, there is no organizing principle behind how you relate to people on LinkedIn. All connections are alike. This gives rise to some of the most tedious features on the site.
 
-First, it muddies the experience of the feed. Say you are not a lawyer or have anything to do with the legal field at all. But your friend Michael is a lawyer. Michael always posts updates about the legal field. This is makes his posts on your feed irrelevant. You cannot focus on the things you wish to learn, grow in, etc. (Yes, I know there’s an option to unfollow him so that I stop seeing his posts, but that’s beside the point). What should have been a rich source of news, articles, help in things that matter to you instead blurs into a mix of sameness.
+First, it muddies the experience of the feed. Say you are not a lawyer or have anything to do with the legal field at all. But your friend Michael is a lawyer. Michael always posts updates about the legal field. This is makes his posts on your feed irrelevant. You cannot focus on the things you wish to learn, grow in, etc. Unfollowing people is not enough. What should have been a rich source of news, articles, help in things that matter to you instead blurs into a mix of sameness.
 
 Second, it gives rise to virtue signaling and bland content. The LinkedIn feed is like a display of confusing billboards where people are don’t know what to share. This is why we get either boring industry news about completely unrelated fields on our timeline from friends or useless posts about the inspiring wisdom of billionaires with #so #many #hashtags #to #make #it #noticeable #to #others. If people don’t know who or what they’re posting to, then what gets shared is not useful. So you post the absolute generic with no value.
 
-LinkedIn also feeds a different type of social media resentment. Like how Instagram makes us self-conscious about our happiness, physical bodies, and lifestyles, LinkedIn does that to professional success. I have had countless conversations with people of varying work experiences who feel a crushing sense of being left behind seeing out-of-context moves of their colleagues. The artificial and canned response only adds to this type of broken and artificial relating with others.
+LinkedIn also feeds a different type of social media resentment. Like how Instagram makes us self-conscious about our happiness, physical bodies, and lifestyles, LinkedIn does that to professional success. I have had countless conversations with people who feel a crushing sense of falling-behind seeing the moves of their peers. The artificial and canned response only adds to this type of broken and artificial relating with others.
 
 This doesn’t even count the “Breaking News” section on the top left corner that highlights click-bait anxiety-producing news. While it is meant to be informative, it is not context-driven, or user-driven. Constructive Journalism might be a potential solution here.
 
@@ -62,7 +62,7 @@ It’s a Catch-22. Connect with discretion, you lose. Connect with all, you lose
 
 Like filling out a resume, you create a static profile which you can periodically update. You add your friends from college, from work, from the places you volunteer, etc. Someone might even leave an endorsement. You are forced to encapsulate a static version of who you are.
 
-It commoditizes people and forces them to act in stiff and artificial ways. We already saw its effects above in the form of artificial networking and virtue signaling. Instead of building a professional profile that can be dynamic and about what you want to be and where you want to grow, LinkedIn favors the past and static you.
+It commoditizes people and forces them to act in stiff and artificial ways. We already saw its effects above in the form of artificial networking and virtue signaling. LinkedIn favors the past and static you, instead of letting you build a profile that can be dynamic and about what you want to be and where you want to grow.
 
 Throughout all this, you feel that that you are a product who is here to sell to others. This clouds your attitudes and actions on the platform.
 
