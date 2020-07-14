@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+title: Reimagining LinkedIn
+layout: post-no-feature
 ---
 LinkedIn is the kid everyone is forced to play with on the playground, even though nobody wants to. Not because he's unskilled, but because he makes the game less fun for everyone. He also forces others to play the game only in the way he wants to play.
 
