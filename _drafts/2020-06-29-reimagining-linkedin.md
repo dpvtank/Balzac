@@ -134,18 +134,15 @@ What if we could re-frame all this and put the user at the heart of the experien
 
 Let's find out a solution
 
-# Reimagining LinkedIn (The Solution)
+# Reimagining LinkedIn
 
-A reimagined Linked should flow from 4 premises:
+A reimagined Linked should flow from 3 premises:
 
 1. Individuals at the heart.
 2. Learning in streams.
-3. Networking in circles.
-4. All interconnected with content.
+3. All interconnected with content.
 
 Here's a basic tenet of human psychology that's worth considering. People want to feel approved of. They want to feel useful. They want to feel recognized for what they do. What would a reimagined user experience look like?
-
-## Profile as a Canvas, Learning in Streams
 
 It starts with the profile. When a user creates an account, let her think of her career as a canvas. Make it about her. Don't make her fill out a full resume right away. Make her choose the things she wants, desires, wants to dip into. Most of us aspire for something greater in our professional lives. Give us a chance to hope and dream again. 
 
@@ -180,18 +177,30 @@ This system rewards the engaged, not the ATS optimized individuals. This is what
 
 Let individuals recommend contributors and commentors recommend one another for recruiting directly on the platform. Let a person just be able to make a post on the "stream" and have the recommendations and applications come in.
 
-## Distinct Networks
-
 Expanding on the idea of networks and connections, LinkedIn would offer the ability to separate your personal connections with your professional connections. This goes back to the idea of "streams" above. You don't want to or need to read about your lawyer friend's paper on some obscure topic you don't understand. You should be able to read from the "personal" stream if you want to, but this shouldn't be front and center.
 
 You should still be able to connect with your friends and colleagues, but determine which "stream" they fall into. And then the content you receive should be based on your "stream" with the ability to switch between streams if you like.
 
 I believe this will greatly elevate LinkedIn into a learning first platform, while maintaining the significant power of networks that it already allows you to have.
 
-Is she a developer that wants to get into the business world? Let her 
+## Revenue Streams
 
+LinkedIn can monetize the distinct streams with sponsored posts. But because it is not being micro-targetted into streams, it can actually be a lot more effective.
 
+LinkedIn can also provide a similar experience like right now with its Pro account. I believe Lynda and the existing Pro account features are excellent in their own right.
 
-So, say you're into marketing, or perhaps into engineering. Let me dip into the marketing stream. See what people are writing about. If someone catches my eye in that stream, let me comment on her post. Let me follow her. Let me build a connection with her. This relationship works in the context of that stream only. This is not an unsolicated connection request to "network" and then spam.
+Finally, LinkedIn still has the potential to help recruiters find great candidates. But it needs to expand the scope of recruiting from just ATS optimized profiles to deeply engaged candidates in topics/streams. This is about capturing the interest, knowledge, leadership and engagement of the user even if they do not have strict professional experience in the space.
 
-Acknowledgements: 
+I believe this also gives companies a direct path to the right candidates. Companies can create contests, recruitment challenges, gigs, and other incentives to hire and find great people. 
+
+# Conclusion
+
+LinkedIn has long been a painful experience for users. It has felt fake, and networking on there feels forced. By acknowledging that the future of work should empower the user first, not large companies, LinkedIn can re-shape its offerings to put the user at the center.
+
+At its heart is giving the user the ability to dip and dive into different topics, create a more organic  profile that can cut across different dimensions, and separate the existing "feed" into streams as per the user's choices and preferences.
+
+This will allow more authentic voices to rise, allow for more genuine connections, collaborations, and growth (with Lynda as a supplement), and finally allow for better candidates to rise to the top based on knowledge and engagement.
+
+What do you think? Let me know in the comments section below about the areas I haven't considered. This essay will remain a WIP in perpetuity.
+
+v1 - 14 July 2020.
