@@ -76,13 +76,23 @@ While the network of people you know can help you with your professional career,
 
 First, it muddies the experience of the feed. Say you are not a lawyer or have anything to do with the legal field at all. But your friend Michael is a lawyer. Michael always posts updates about the legal field. This is makes his posts on your feed irrelevant. You cannot focus on the things you wish to learn, grow in, etc. Unfollowing people is not enough. What should have been a rich source of news, articles, help in things that matter to you instead blurs into a mix of sameness.
 
+| ![]({{site.baseurl}}/images/sM1N07nl3_offM4e.jpg) |
+| :--: |
+| The model of networking that LinkedIn replicates. Credit: Unsplash Product School |
+
 Second, it gives rise to virtue signaling and bland content. The LinkedIn feed is like a display of confusing billboards where people are don’t know what to share. This is why we get either boring industry news about completely unrelated fields on our timeline from friends or useless posts about the inspiring wisdom of billionaires with #so #many #hashtags #to #make #it #noticeable #to #others. If people don’t know who or what they’re posting to, then what gets shared is not useful. So you post the absolute generic with no value.
+
+![A8EY4cdMn-jqNI3.png]({{site.baseurl}}/images/A8EY4cdMn-jqNI3.png)
 
 LinkedIn also feeds a different type of social media resentment. Like how Instagram makes us self-conscious about our happiness, physical bodies, and lifestyles, LinkedIn does that to professional success. I have had countless conversations with people who feel a crushing sense of falling-behind seeing the moves of their peers. The artificial and canned response only adds to this type of broken and artificial relating with others.
 
 This doesn’t even count the “Breaking News” section on the top left corner that highlights click-bait anxiety-producing news. While it is meant to be informative, it is not context-driven, or user-driven. Constructive Journalism might be a potential solution here.
 
 LinkedIn Groups are no better. They are either silent ghost towns or a self-promotional spam-fest of users shouting into the void to other self-promoters.
+
+| ![AWejXbRvq4xg9tL3iuvuIw.png]({{site.baseurl}}/images/AWejXbRvq4xg9tL3iuvuIw.png) |
+| :--: |
+| No thank you. |
 
 Finally, it gives rise to artificial connections. You can choose to accept connection requests from only the people you know well to curate your relationships, but that reduces the value of the network (network effects).
 
@@ -103,6 +113,10 @@ This has given rise to an entire cottage industry of people whose entire job is 
 
 This would be okay if it were companies trying to optimize for customers and potential candidates. But it is candidates themselves who are commoditizing themselves. It is shocking that people pay for the privilege of becoming more of a neat product.
 
+| ![JB3DFo2FhjAcRjwg2XMIeQ.png]({{site.baseurl}}/images/JB3DFo2FhjAcRjwg2XMIeQ.png) |
+| :--: |
+| How many of us resonate with this type of branding for ourselves? |
+
 **Most people don’t want to think of themselves as a brand.** This brand-building myth has given rise to the over-inflated profiles that verge on the side of looking like spam. But once again, who’s noticing, since that’s all a mess anyways.
 
 This brand based thinking has gone far enough. You and I are not brands. We are people. The real question is: how do we let our humanity shine through? I’ll answer that later on in this essay.
@@ -116,6 +130,10 @@ To recap so far: When the user is the product, and various networks are all lump
 With content, knowledge, ideas, experiences all a jumbled mess, can genuine talent rise to the top? Do the best candidates rise up from this environment?
 
 LinkedIn’s Recruiting Solutions relies on ATS systems or Application Tracking Systems. It relies on buzzword stuffing in your profile (“but it’s supposed to be done organically and naturally!” they’ll say).
+
+| ![e0hRwWIlC-py28wZ.png]({{site.baseurl}}/images/e0hRwWIlC-py28wZ.png) |
+| :--: |
+| 80–90% of applications are discarded immediately. Is this the future we had hoped for? Source: ResumeGo |
 
 In the same way that standardized tests only prove students’ ability to give standardized tests, the ATS system helps get candidates who know how to win the ATS game, not the best candidates in and of themselves.
 
@@ -155,17 +173,30 @@ It starts with the profile. When a user creates an account, let her think of her
 
 Twitter gets this right. Upon joining Twitter, you can choose your interests and immediately get a useful curation of the top people and ideas by those people. LinkedIn misses out on not having this option. Let the user follow the topics that interest her. This includes the areas she is already experienced in and areas that she would like to learn more about.
 
+| ![nJzn-7LDNvHplYPl2HX0gQ.png]({{site.baseurl}}/images/nJzn-7LDNvHplYPl2HX0gQ.png)|
+| :--: |
+| Twitter's experience of curating a feed for your interests is excellent. |
+
 This is not the same as following company pages. This is about “streams” or topics of interest. Currently, the only existing framework for this is LinkedIn groups, but they have proven ineffective. This can be akin to Twitter Lists. You can form “streams” about topics you want to dip into, people who are talking and writing about certain things.
 
 The current wall of posts come from your connections and either stand on either the boring or far too general. But most of us have a variety of colleagues who are doing a variety of things. I do not believe this is the form of a network that is useful to us.
 
 Give me the ability to dip into my “personal connections” stream if I want to, so I can see how my friends are doing professionally. But most of my time should be spent on the streams on topics that interest me.
 
+|![QkbA7s12osnmBDpR1ZGFfA.png]({{site.baseurl}}/images/QkbA7s12osnmBDpR1ZGFfA.png)|
+| :--: |
+| Twitter Lists are one example of how it is possible to separate out distinct groups of people. This is a lot more manageable for most of us since LinkedIn is only for professional networking. |
+
 What would be included in these streams? Articles, ideas, talks, etc. from across the Internet. Right now, marketers and crypto heads are aces at this, but other sectors not so much. We need to make LinkedIn into the place to find the world’s best content about your particular industry, interest, sector, etc.
 
 **This is the real opportunity to transform LinkedIn into the launching pad for the world’s best ideas about the world’s different sectors, industries, and functions.**
 
 When your post isn’t blasted into a nebulous void of everyone you are connected to (including former bosses and colleagues), you can be a lot more authentic and share ideas that actually matter to you. You can be authentic, you can be conversational.
+
+| ![eiH67QaIt_vTXRnhH_xz0w.png]({{site.baseurl}}/_posts/eiH67QaIt_vTXRnhH_xz0w.png) |
+| :--: |
+| Mighty Networks gets this! This is the page for Mighty Hosts Discovery section. It feels more inviting, but also gives me the freedom to dip into topics I care about. |
+
 
 This is also the perfect way for anyone to organically join a conversation about an industry they know a lot about and something they are just exploring. They can comment on threads, comment on conversations, and start building an organic network of people they like to follow. Whose ideas resonate with them.
 
@@ -176,6 +207,10 @@ This is about organic networking done based on ideas. This also means that your 
 1. A tab for your most recent posts.
 2. A tab for your summary (where you want to be).
 3. A tab for your “profile” (aka existing resume).
+
+|![Facebook gets its. Despite all its problems, this is much neater than LinkedIn profiles.]({{site.baseurl}}/images/1 MEIfDgTlezqhDGnZ2-F_1A.png)|
+| :--: |
+| Facebook gets it. Despite all its problems, this is much neater than LinkedIn profiles.|
 
 This means people can engage with you across different dimensions. This means recruiters can notice you’re growing in your networks, your knowledge, and your contribution in different domains on a more organic basis, NOT based on ATS optimization.
 
