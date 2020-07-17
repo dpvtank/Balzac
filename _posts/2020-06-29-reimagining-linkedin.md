@@ -244,6 +244,10 @@ This will allow more authentic voices to rise, allow for more genuine connection
 
 What do you think? Let me know in the comments section below about the areas I haven’t considered. This essay will remain a WIP in perpetuity.
 
+And if you found this interesting, you will really enjoy my once a week, spam free newsletter: Heart to Heart. Consider signing up for it here:
+
+<center><iframe src="https://dtank.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe></center>
+
 Acknowledgements: Barbara Sher, Emilie Wapnick, Jared Polites, John Biggs, Matt A. Smith, 58th St. Gallen Symposium.
 
 v1.1 - 17 July 2020.
