@@ -1,46 +1,76 @@
 ---
 published: true
-title: Reimagining LinkedIn
+title: Re-imagining LinkedIn
 layout: post
 image:
-      feature: reimagining-linkedin.jpg
+  feature: reimagining-linkedin.jpg
 comments: true
 ---
-LinkedIn is the kid everyone is forced to play with on the playground, even though nobody wants to. Not because he’s unskilled, but because he makes the game less fun for everyone. He also forces others to play the game only in the way he wants to play.
+LinkedIn is the kid everyone is forced to play with on the playground. Everyone know he's a sharp kid, skilled in his ways, but he forces others to play by his rules, and that makes the game less fun for everyone.
 
 While this kid’s parents (Reid & Satya) might think “how wonderful it is that everyone is playing with my kid,” they don’t see how miserable everyone is.
 
-But this kid is smart and can change the rules of the game for the better. He just needs to listen to other kids and understand what they want to play. If he can do that, the entire game can change completely.
+But this kid is smart and can change the rules of the game for the better. He just needs to listen to other kids and understand how they want to play. If he can do that, the entire game can change completely.
 
-He might even find out that others genuinely **want** to play with him then. Reimagining LinkedIn requires us to look at the future of work, the role of the individual, and the work that makes us happy. LinkedIn is not at all ready for this revolution. If anything, LinkedIn remains fixed in an old model that keeps things stuck in the past.
+This essay is about understanding the game that LinkedIn has made us play, and what it would look like if we could shift the rules to make it more fun.
 
-In this essay, I want to go over what’s broken about LinkedIn, the future of work, and how LinkedIn can become a formidable player in this new economy.
+Reimagining LinkedIn requires us to look at the future of work, the role of the individual, and the work that makes us happy. LinkedIn is ready for this revolution. 
 
-This is about a different philosophy altogether, not interface changes and some broken features in the mobile app.
+In this essay, I want to go over what’s broken about LinkedIn, the future of work, and how LinkedIn can become loved. Seriously.
 
 Let’s get to it.
 
-# The Problems
+# The Root of the Problem
 
-The surface issues on LinkedIn stem from an outdated philosophy. These are the roots of not only a broken product but a broken approach to work itself.
+The surface issues on LinkedIn stem from an outdated philosophy of work, of careers, and of networking. These are the roots of not only a broken product but a broken approach to work itself.
 
-In this section, I want to discuss where LinkedIn has left its users behind and left a vast chasm of unmet needs.
+In this section, I want to discuss where LinkedIn has left its users behind and left a vast chasm of unmet needs. 
 
-As I go through these details, a note to those reading this inside LinkedIn that the metrics might show a different story. However, I do not believe high engagement show positive feelings and opinions about LinkedIn. Its leaders should note that metrics that emerge from compulsion do not show a healthy ecosystem. There’s a reason why alternative networks are popping up that tackle this challenge differently, and they are growing fast. Companies like [BlueCrew](https://bluecrewjobs.com) and [Jobcase](https://jobcase.com), even though focused on blue-collar jobs, are doing a much better job at understanding the needs of its users.
+LinkedIn might have high engagement metrics, but they don't show positive feelings from its users. There’s a reason why alternative networks are popping up that tackle this challenge differently, and they are growing fast. Companies like [BlueCrew](https://bluecrewjobs.com) and [Jobcase](https://jobcase.com), even though focused on blue-collar jobs, are doing a much better job at understanding the needs of its users.
 
 _(Yes, I know they are not strict social networks.)_
 
 > What's the point of network effects if everyone dislikes your product and feel forced to use it anyways?
 
-Kim Kardashian has network effects because she’s famous. But just because something is popular, doesn’t make it useful.
+So what are the broken assumptions about work, career, and networking baked into LinkedIn? Let's understand them first before we see how they manifest.
 
-## User as a Product, Advertiser/Recruiter as Customer
+## Assumptions about Work
 
-On LinkedIn, you are the product. This would not be so bad in and of itself if it provided enough positive value to the user. This isn't so. LinkedIn is a friction-heavy platform for the users themselves in a few key ways.
+Let’s try to understand how LinkedIn stacks up with the future of work. Whether it empowers the user, or it doesn’t.
 
-_Note: LinkedIn’s future can still involve making the user the product but engaging the users’ needs and understanding the future of work._
+| Future of Work | LinkedIn |
+| -------------- | -------- |
+| Blend of professional & personal work; uncredentialed | Chronological professional work & credentials at the forefront |
+| Project based | Titled based |
+| Multi-dimensional talents, skills, abilities | One job title, one identity |
+| Continuous Learning based | Credential based |
+| Tapping into new networks & opportunities | All about existing networks |
+| Sharing | Spammy wall of text |
+| Worker in the driver's seat | Spammy, self-promotional experiences |
 
-### Broken Way of Relating to Others
+LinkedIn currently favors you to have one job title, present one idea of who you are. You optimize your headline, your description, and your education, work experiences, and certificates to align with one thing. LinkedIn experts tell you to build this one-dimensional profile as well if you want to “network” well and get hired. It is about optimizing for keywords. As a result, you are stuck in a tricky position to build a strong profile about what you’ve done.
+
+The Future of Work (and even the present) is where people will have many job titles, different functions, different roles altogether. Careers adapt and change. It requires that you be able to present a multi-dimensional picture of who you are to different people. You shouldn’t have to be just a marketing, or a sales, or a developer, or a strategy person. You want the ability to present yourself fully. LinkedIn doesn’t have this yet.
+
+LinkedIn currently favors chronological professional experiences. But in the future of work, your personal, volunteer, side gig, side projects, and businesses will be just as relevant. The chronology will be less critical. LinkedIn doesn’t allow you to portray this accurately.
+
+The future of work also requires constant learning, sharing, and more organic networking based on interests and contributions. LinkedIn currently favors formal credentials, and taking courses on Lynda in its “Pro” account. 
+
+The future of work requires that people learn organically from each other and contribute to the conversation (dialectics as a form of learning). This is a significantly different model of networking altogether.
+
+LinkedIn’s wall or stream of messages is currently haphazard and doesn’t allow for this form of dialectical learning. Nor does it allow for forming connections and networks based learning. Instead, it focuses on spammy or dreadfully boring industry topic PR type sharing or generalities that verge on fluff pieces.
+
+The future of work will put the individual in the driver’s seat. She will seek and carve out opportunities for herself, not in the hands of recruiters and organizations. There is a place for this, but LinkedIn’s current system is about either finding jobs or nothing at all. Even though you can pick different job titles or work arrangements, the costs associated with posting (and I don’t just mean financial expenses) on the recruiter side don’t allow for non-traditional work offers to flow freely. This means gigs, side projects, finding co-founders, etc. On top of it all, it costs people even to send InMail messages.
+
+Finally, the future of work requires much more organic networking. It requires people to dip in and out of their interests, join the conversation when it makes sense, and connect with people in degrees. LinkedIn currently only allows either a direct connection, a soft follow (not available on all profiles), or nothing.
+
+> In reality, this isn't even the future of work. It is happening right now!
+
+All of these things create much friction in the user experience. These points of friction make using LinkedIn a miserable experience.
+
+Let's understand how.
+
+## Broken Way of Relating to Others
 
 While the network of people you know can help you with your professional career, there is no organizing principle behind how you relate to people on LinkedIn. All connections are alike. This gives rise to some of the most tedious features on the site.
 
@@ -60,7 +90,7 @@ On the opposite spectrum, if you accept everyone’s request, you drown in reque
 
 It’s a Catch-22. Connect with discretion, you lose. Connect with all, you lose.
 
-### Broken Way of Representing Yourself
+## Broken Way of Representing Yourself
 
 Like filling out a resume, you create a static profile which you can periodically update. You add your friends from college, from work, from the places you volunteer, etc. Someone might even leave an endorsement. You are forced to encapsulate a static version of who you are.
 
@@ -79,7 +109,7 @@ This brand based thinking has gone far enough. You and I are not brands. We are 
 
 For 95% of the people out there, their personal brands can be what they’ve learned, can do, and what they’d want to learn and what they would like to do, their contributions and ever growing knowledge and connections in a certain topic. And Lynda is an exciting platform, but it remains inaccessible to most users who do not have a pro account.
 
-### Broken Recruiting
+## Broken Recruiting
 
 To recap so far: When the user is the product, and various networks are all lumped together, you create a feed that doesn’t nourish your professional interests (or help you notice enough of the good news about your friends). You also end up either hyper-inflating your profile (BRANDING is what they’d call it) to stand apart from others or retreat from it altogether.
 
@@ -102,47 +132,11 @@ This spam-filled experience is not only limited to our inbox. It extends to our 
 **TL;DR**: LinkedIn’s core problem is making the end-user the product, but without providing enough value to her. It doesn’t allow authentic connections. By not being able to differentiate types of relationships you can have and degrees with which you want to connect with someone, your experience ends up being superficial. The same goes for your profile, which has to be static and one-sided to get recruited in the job you have, not the job you want. Finally, it doesn’t allow the best profiles to rise to the top for even recruiting, favoring LinkedIn optimizers, not the best-qualified people.
 To re-make LinkedIn, we need first to understand what the Future of Work is going to look like.
 
-To re-make LinkedIn, we need to first understand what the Future of Work is going to look like.
-
-# The Future of Work
-
-The fact is simple: LinkedIn is not ready for the future of work. With its broken assumptions, it encourages the existing system, making people miserable, bored, and exhausted from engaging in “professional” networking.
-
 LinkedIn can be the catalyst for the future of work. It can use its massive number of users to actually create something good, give people a chance to be human, to focus on learning and growth and helping one another. But instead, it optimizes for algorithmic popularity.
-
-Let’s try to understand how LinkedIn stacks up with the future of work. Whether it empowers the user, or it doesn’t.
-
-| Future of Work | LinkedIn |
-| -------------- | -------- |
-| Blend of professional & personal work; uncredentialed | Chronological professional work & credentials at the forefront |
-| Project based | Titled based |
-| Multi-dimensional talents, skills, abilities | One job title, one identity |
-| Continuous Learning based | Credential based |
-| Tapping into new networks & opportunities | All about existing networks |
-| Sharing | Spammy wall of text |
-| Worker in the driver's seat | Spammy, self-promotional experiences |
-
-Let's dig into this one by one.
-
-LinkedIn currently favors you to have one job title, present one idea of who you are. You optimize your headline, your description, and your education, work experiences, and certificates to align with one thing. LinkedIn experts tell you to build this one-dimensional profile as well if you want to “network” well and get hired. It is about optimizing for keywords. As a result, you are stuck in a tricky position to build a strong profile about what you’ve done.
-
-The Future of Work (and even the present) is where people will have many job titles, different functions, different roles altogether. It requires that you be able to present a multi-dimensional picture of who you are to different people. You shouldn’t have to be just a marketing, or a sales, or a developer, or a strategy person. You want the ability to present yourself fully. LinkedIn doesn’t have this yet.
-
-LinkedIn currently favors chronological professional experiences over anything else. But in the future of work, your personal, volunteer, side gig, side projects, and businesses will be just as relevant. The chronology will be less critical. LinkedIn doesn’t allow you to portray this accurately.
-
-The future of work also requires constant learning, sharing, and more organic networking based on interests and contributions. LinkedIn currently favors formal credentials, and taking courses on Lynda in its “Pro” account. 
-
-The future of work requires that people learn organically from each other and contribute to the conversation (dialectics as a form of learning). LinkedIn’s wall or stream of messages is currently haphazard and doesn’t allow for this form of dialectical learning. Instead, it focuses on spammy or dreadfully boring industry topic PR type sharing or generalities that verge on fluff pieces.
-
-The future of work will put the individual in the driver’s seat. She will seek and carve out opportunities for herself, not in the hands of recruiters and organizations. There is a place for this, but LinkedIn’s current system is about either finding jobs or nothing at all. Even though you can pick different job titles or work arrangements, the costs associated with posting (and I don’t just mean financial expenses) on the recruiter side don’t allow for non-traditional work offers to flow freely. This means gigs, side projects, finding co-founders, etc. On top of it all, it costs people even to send InMail messages.
-
-Finally, the future of work requires much more organic networking. It requires people to dip in and out of their interests, join the conversation when it makes sense, and connect with people in degrees. LinkedIn currently only allows either a direct connection, a soft follow (not available on all profiles), or nothing.
-
-All of these things create much friction in the user experience. These points of friction make using LinkedIn a miserable experience.
 
 What if we could re-frame all this and put the user at the heart of the experience? What if we can empower her to network organically, learn and grow, and position herself for unique models of work and roles, functions, and industries that she wants, as opposed to where she’s been.
 
-Let’s find out a solution.
+Let’s think through one potential solution.
 
 # Reimagining LinkedIn
 
@@ -215,4 +209,4 @@ This will allow more authentic voices to rise, allow for more genuine connection
 
 What do you think? Let me know in the comments section below about the areas I haven’t considered. This essay will remain a WIP in perpetuity.
 
-v1 - 14 July 2020.
+v1.1 - 17 July 2020.
