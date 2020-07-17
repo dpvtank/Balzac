@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Towards A Dharma Centered World
+title: Towards A Heart Centered World
 image:
   feature: null
 published: true
@@ -19,6 +19,8 @@ I believe that brain food alone cannot nourish life. Let's have a heart to heart
 <center><iframe src="https://dtank.substack.com/embed" width="480" height="320" frameborder="0" scrolling="no"></iframe></center>
 
 ## Popular Articles
+
+[Re-Imagining LinkedIn](/reimagining-linkedin): For most of us, using LinkedIn is a chore. But what if we apply a different and new philosophy and remake this experience? In this essay, I reimagine LinkedIn from the ground up.
 
 [The Future of Work](/the-future-of-work): This was the seminal essay that got me a free trip to Switzerland at the annual Symposium where political and business leaders meet and make decisions to shape society. This goes into the deep focus on character and spirituality needed in the task of leadership whether you are a salesperson, the leader of a team, organization, or nation.
 
