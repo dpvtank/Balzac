@@ -244,4 +244,6 @@ This will allow more authentic voices to rise, allow for more genuine connection
 
 What do you think? Let me know in the comments section below about the areas I haven’t considered. This essay will remain a WIP in perpetuity.
 
+Acknowledgements: Barbara Sher, Emilie Wapnick, Jared Polites, John Biggs, Matt A. Smith, 58th St. Gallen Symposium.
+
 v1.1 - 17 July 2020.
