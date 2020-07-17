@@ -62,7 +62,7 @@ LinkedIn’s wall or stream of messages is currently haphazard and doesn’t all
 
 The future of work will put the individual in the driver’s seat. She will seek and carve out opportunities for herself, not in the hands of recruiters and organizations. There is a place for this, but LinkedIn’s current system is about either finding jobs or nothing at all. Even though you can pick different job titles or work arrangements, the costs associated with posting (and I don’t just mean financial expenses) on the recruiter side don’t allow for non-traditional work offers to flow freely. This means gigs, side projects, finding co-founders, etc. On top of it all, it costs people even to send InMail messages.
 
-Finally, the future of work requires much more organic networking. It requires people to dip in and out of their interests, join the conversation when it makes sense, and connect with people in degrees. LinkedIn currently only allows either a direct connection, a soft follow (not available on all profiles), or nothing.
+Finally, the future of work requires much more organic networking. It requires people to dip in and out of their interests, join the conversation when it makes sense, and connect with people in degrees. LinkedIn currently only allows either a direct connection, a soft follow (not available on all profiles), or nothing. This is all about [learning in public](https://www.swyx.io/writing/learn-in-public/) and forming connections based on that.
 
 > In reality, this isn't even the future of work. It is happening right now!
 
@@ -248,6 +248,6 @@ And if you found this interesting, you will really enjoy my once a week, spam fr
 
 <center><iframe src="https://dtank.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe></center>
 
-Acknowledgements: Barbara Sher, Emilie Wapnick, Jared Polites, John Biggs, Matt A. Smith, 58th St. Gallen Symposium.
+Acknowledgements: Barbara Sher, Emilie Wapnick, Jared Polites, John Biggs, Shawn Wang, Matt A. Smith, 58th St. Gallen Symposium.
 
 v1.1 - 17 July 2020.
