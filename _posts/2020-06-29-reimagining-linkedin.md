@@ -193,7 +193,7 @@ What would be included in these streams? Articles, ideas, talks, etc. from acros
 
 When your post isn’t blasted into a nebulous void of everyone you are connected to (including former bosses and colleagues), you can be a lot more authentic and share ideas that actually matter to you. You can be authentic, you can be conversational.
 
-| ![eiH67QaIt_vTXRnhH_xz0w.png]({{site.baseurl}}/_posts/eiH67QaIt_vTXRnhH_xz0w.png) |
+| ![eiH67QaIt_vTXRnhH_xz0w.png]({{site.baseurl}}/images/eiH67QaIt_vTXRnhH_xz0w.png) |
 | :--: |
 | Mighty Networks gets this! This is the page for Mighty Hosts Discovery section. It feels more inviting, but also gives me the freedom to dip into topics I care about. |
 
