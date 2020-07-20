@@ -5,6 +5,7 @@ layout: post
 image:
   feature: reimagining-linkedin.jpg
 comments: true
+category: essays
 ---
 LinkedIn is the kid everyone is forced to play with on the playground. Everyone know he's a sharp kid, skilled in his ways, but he forces others to play by his rules, and that makes the game less fun for everyone.
 
