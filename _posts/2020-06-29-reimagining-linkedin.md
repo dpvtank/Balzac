@@ -247,7 +247,7 @@ What do you think? Let me know in the comments section below about the areas I h
 
 And if you found this interesting, you will really enjoy my once a week, spam free newsletter: Heart to Heart. Consider signing up for it here:
 
-<center><iframe src="https://dtank.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe></center>
+<center><iframe src="https://dtank.substack.com/embed" width="480" height="320" style="border:1px solid #EEE;" frameborder="0" scrolling="no"></iframe></center>
 
 Acknowledgements: [Barbara Sher](https://barbarasclub.com/), [Emilie Wapnick](https://puttylike.com), [John Herrman](https://twitter.com/jwherrman), [Jared Polites](https://www.jaredpolites.io/), John Biggs, [Shawn Wang](https://swyx.io), [58th St. Gallen Symposium](https://www.symposium.org/), [The State of LinkedIn](https://twitter.com/StateOfLinkedIn).
 
