@@ -249,4 +249,4 @@ And if you found this interesting, you will really enjoy my once a week, spam fr
 
 Acknowledgements: [Barbara Sher](https://barbarasclub.com/), [Emilie Wapnick](https://puttylike.com), [John Herrman](https://twitter.com/jwherrman), [Jared Polites](https://www.jaredpolites.io/), John Biggs, [Shawn Wang](https://swyx.io), [58th St. Gallen Symposium](https://www.symposium.org/), [The State of LinkedIn](https://twitter.com/StateOfLinkedIn).
 
-v1.1 - 17 July 2020.
+v1.2 - 21 July 2020.
