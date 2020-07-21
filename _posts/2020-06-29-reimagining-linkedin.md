@@ -17,6 +17,11 @@ This essay is about understanding the game that LinkedIn has made us play, and w
 
 Reimagining LinkedIn requires us to look at the future of work, the role of the individual, and the work that makes us happy. LinkedIn is ready for this revolution. 
 
+A reimagined Linked should flow from 3 premises:
+1. Users’ experience comes first.
+2. Learning in streams.
+3. All interconnected with content.
+
 In this essay, I want to go over what’s broken about LinkedIn, the future of work, and how LinkedIn can become loved. Seriously.
 
 Let’s get to it.
@@ -156,11 +161,6 @@ What if we could re-frame all this and put the user at the heart of the experien
 Let’s think through one potential solution.
 
 # Reimagining LinkedIn
-
-A reimagined Linked should flow from 3 premises:
-1. Users’ experience comes first.
-2. Learning in streams.
-3. All interconnected with content.
 
 Here’s a basic tenet of human psychology that’s worth considering. People want to feel useful. They want to feel recognized for what they do. 
 
