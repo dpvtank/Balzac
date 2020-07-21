@@ -83,8 +83,6 @@ First, it muddies the experience of the feed. Say you are not a lawyer or have a
 
 Second, it gives rise to virtue signaling and bland content. The LinkedIn feed is like a display of confusing billboards where people are don’t know what to share. This is why we get either boring industry news about completely unrelated fields on our timeline from friends or useless posts about the inspiring wisdom of billionaires with #so #many #hashtags #to #make #it #noticeable #to #others. If people don’t know who or what they’re posting to, then what gets shared is not useful. So you post the absolute generic with no value.
 
-![A8EY4cdMn-jqNI3.png]({{site.baseurl}}/images/A8EY4cdMn-jqNI3.png)
-
 LinkedIn also feeds a different type of social media resentment. Like how Instagram makes us self-conscious about our happiness, physical bodies, and lifestyles, LinkedIn does that to professional success. I have had countless conversations with people who feel a crushing sense of falling-behind seeing the moves of their peers. The artificial and canned response only adds to this type of broken and artificial relating with others.
 
 This doesn’t even count the “Breaking News” section on the top left corner that highlights click-bait anxiety-producing news. While it is meant to be informative, it is not context-driven, or user-driven. Constructive Journalism might be a potential solution here.
