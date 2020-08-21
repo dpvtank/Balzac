@@ -2,7 +2,6 @@
 layout: post-no-feature
 permalink: /about/index.html
 title: About Me
-description: 'Dharma in Business, Life, and Society'
 tags: null
 published: true
 ---
