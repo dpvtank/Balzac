@@ -1,6 +1,6 @@
 ---
 title: The Simple Book of Sales & Marketing
-Description: Principles, Strategies, and Techniques for Startups and Small Businesses
+Description: 'Principles, Strategies, and Techniques for Startups and Small Businesses'
 published: true
 layout: post-no-feature
 author: Dhawal Tank
@@ -25,7 +25,7 @@ technical jargon talk.
 
 ## Are You Getting All You Can For Your Business?
 
-The world of sals & marketing is more messy and crowded than ever before. 
+The world of sales & marketing is more messy and crowded than ever before. 
 There are new tools, publications, platforms, gimmicks, and formats 
 coming out everyday, and it’s hard to figure out what works and what 
 doesn’t. There are many marketing experts that are all re-selling and 
