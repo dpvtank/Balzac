@@ -50,7 +50,7 @@ In case you're wondering how to pronounce my name, here's an audio:
     </audio>
 </figure>
 
-By day, my primary work is in sales, customer success, and strategy. I’ve spent 6+ years doing sales, customer success, and marketing in Fortune 500 companies as well as startups. I also consult with and advise startups to do the same. You can see a more professional breakdown of my work on [LinkedIn](https://www.linkedin.com/in/dtankco).
+By day, my primary work is in sales and marketing strategy. I’ve spent 6+ years doing sales and marketing in Fortune 500 companies as well as startups. I also consult with and advise startups to do the same. You can see a more professional breakdown of my work on [LinkedIn](https://www.linkedin.com/in/dtankco).
 
 In the rest of my time, I write about connection, culture, spirituality, and its application in personal lives, business and organizations.
 
