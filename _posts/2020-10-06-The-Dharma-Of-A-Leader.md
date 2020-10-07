@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 title: The Dharma of a Leader
+layout: post
 description: >-
   The Drucker Challenge is part of one of the most prestigious management Forums
   in the world (The Drucker Forum). Peter Drucker is considered the father of
