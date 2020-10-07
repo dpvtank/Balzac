@@ -24,7 +24,7 @@ Dhawal. It rhymes with shovel. The-vel. Shovel. I've also included an audio here
 ## Brief Highlights
 I’ve worked inside of and with dozens of organizations to see where they succeed and what makes them come up short.
 
-I am one of the 100 Global Leaders of Tomorrow as per the <a href="http://symposium.org" target="_blank" rel="noopener noreferrer">St. Gallen Symposium</a> in Switzerland. I have an MBA from York University (Top 10 in the World outside the US as per <a href="http://schulich.yorku.ca/about/rankings/">Forbes</a>) and a Bachelors from the Ivey Business School (<a href="https://www.ivey.uwo.ca/discover/rankings/">Top ranked</a> undergrad program in Canada).
+I am a winner of the [Drucker Challenge](http://druckerchallenge.org/home/), one of the 100 Global Leaders of Tomorrow as per the <a href="http://symposium.org" target="_blank" rel="noopener noreferrer">St. Gallen Symposium</a> in Switzerland. I have an MBA from York University (Top 10 in the World outside the US as per <a href="http://schulich.yorku.ca/about/rankings/">Forbes</a>) and a Bachelors from the Ivey Business School (<a href="https://www.ivey.uwo.ca/discover/rankings/">Top ranked</a> undergrad program in Canada).
 
 My thought leadership work has been emailed more than 20,000 times and read by close to 1 million people. I’ve spoken across North America in front of audiences of up to 3,500 people.
 
