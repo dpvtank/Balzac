@@ -54,7 +54,7 @@ In case you're wondering how to pronounce my name, here's an audio:
     </audio>
 </figure>
 
-More than there, there is a disconnect between business & people. Leadership and staff. Parents from their kids. What we need is a Dharmic Lens again to remake our businesses, societies, & families. It is a millennia old way of viewing ourselves, the people around us, and a way to see, think and live in this world.
+More than ever, there is a disconnect between business & people. Leadership and staff. Parents from their kids. What we need is a Dharmic Lens again to remake our businesses, societies, & families. It is a millennia old way of viewing ourselves, the people around us, and a way to see, think and live in this world.
 
 By day, my primary work is in sales and marketing strategy. I’ve spent 6+ years doing sales and marketing in Fortune 500 companies as well as startups. I also consult with and advise startups to do the same. You can see a more professional breakdown of my work on [LinkedIn](https://www.linkedin.com/in/dtankco).
 
