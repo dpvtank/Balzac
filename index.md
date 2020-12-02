@@ -17,13 +17,13 @@ I help businesses grow. You can read more about my services [here](/services).
 
 ## Popular Resources
 
-[The Principles of Organizational Breakthroughs:A Practical Guide for Leaders](https://www.slideshare.net/dpvtank/principles-of-breakthrough-a-practical-guide-for-leaders)
-
-These Principles are distilled down based on the best practices of the most effective executives, consultants, and leaders in the world. They are just as applicable to marketing, sales, operations, as they do to human problems. You will find the definitions here will guide your thinking No matter how complex, immediate, or aggravating the challenge, this proven set of Principles can be applied to solve it. They are tested in the real world not just by me but by the hundreds of professionals who have created massive breakthroughs in their organizations through it. Don’t let their simplicity fool you. If they seem like common sense, ask yourself: "have I applied this?"
-
 [The Simple Book of Marketing & Sales](/simple-book/)
 
 This is a long yet immediately applicable guide for small businesses that want to grow their business in low cost and effective ways. It is 16,000+ words of pure actionable insight delivered in a structured way.
+
+[The Principles of Organizational Breakthroughs:A Practical Guide for Leaders](https://www.slideshare.net/dpvtank/principles-of-breakthrough-a-practical-guide-for-leaders)
+
+These Principles are distilled down based on the best practices of the most effective executives, consultants, and leaders in the world. They are just as applicable to marketing, sales, operations, as they do to human problems. You will find the definitions here will guide your thinking No matter how complex, immediate, or aggravating the challenge, this proven set of Principles can be applied to solve it. They are tested in the real world not just by me but by the hundreds of professionals who have created massive breakthroughs in their organizations through it. Don’t let their simplicity fool you. If they seem like common sense, ask yourself: "have I applied this?"
 
 ## Popular Articles
 
