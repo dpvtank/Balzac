@@ -22,7 +22,9 @@ Dhawal. It rhymes with shovel. The-vel. Shovel. I've also included an audio here
 
 
 ## Brief Highlights
-I’ve worked inside of and with dozens of organizations to see where they succeed and what makes them come up short.
+The world has changed. We must focus on serving one another authentically and hold each other in high esteem. This is the heart of what I want to create in this world. Business development workshops for lawyers is just my way of doing this.
+
+I’ve worked inside of and with dozens of organizations to see where they succeed and what makes them come up short. I serve lawyers and law firms do business development smartly.
 
 I am a winner of the [Drucker Challenge](http://druckerchallenge.org/home/), one of the 100 Global Leaders of Tomorrow as per the <a href="http://symposium.org" target="_blank" rel="noopener noreferrer">St. Gallen Symposium</a> in Switzerland. I have an MBA from York University (Top 10 in the World outside the US as per <a href="http://schulich.yorku.ca/about/rankings/">Forbes</a>) and a Bachelors from the Ivey Business School (<a href="https://www.ivey.uwo.ca/discover/rankings/">Top ranked</a> undergrad program in Canada).
 
