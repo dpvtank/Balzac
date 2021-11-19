@@ -15,8 +15,11 @@ owner:
   instagram:      
   dribbble:       
   disqus:         dtankco
-  location:       "Los Angeles, CA"
+  location:       "Dallas, TX"
   # Plug in your disqus shortname!
+  
+  
+remote_theme: poole/poole
 
 tools:
   standards:      "HTML, SCSS, Jekyll"
