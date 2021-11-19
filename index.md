@@ -1,23 +1,17 @@
 ---
 layout: page
-title: Growth Comes The Heart
+title: A Dharmic Lens of Growth
 image:
   feature: null
 published: true
 ---
 
-I help businesses grow. You can read more about my services [here](/services).
+Hi, I’m Dhawal (pronounciation: [🔉](/assets/pronounciation.mp3)). I am a value creator through my ideas, businesses, and consulting practice, grounded in a Dharmic philosophy.
 
+If you’re in the legal profession, please go to [Build Your Book](https://buildyourbook.org/) for more.
 
-## Popular Resources
+I use this site as a personal blog to chronicle my work and ideas in my interests. I help businesses grow. You can read more about my services [here](/services).
 
-[The Simple Book of Marketing & Sales](/simple-book/)
-
-This is a long yet immediately applicable guide for small businesses that want to grow their business in low cost and effective ways. It is 16,000+ words of pure actionable insight delivered in a structured way.
-
-[The Principles of Organizational Breakthroughs:A Practical Guide for Leaders](https://www.slideshare.net/dpvtank/principles-of-breakthrough-a-practical-guide-for-leaders)
-
-These Principles are distilled down based on the best practices of the most effective executives, consultants, and leaders in the world. They are just as applicable to marketing, sales, operations, as they do to human problems. You will find the definitions here will guide your thinking No matter how complex, immediate, or aggravating the challenge, this proven set of Principles can be applied to solve it. They are tested in the real world not just by me but by the hundreds of professionals who have created massive breakthroughs in their organizations through it. Don’t let their simplicity fool you. If they seem like common sense, ask yourself: "have I applied this?"
 
 ## Popular Articles
 
@@ -29,28 +23,21 @@ These Principles are distilled down based on the best practices of the most effe
 
 [The Schoolteacher’s Lessons](/the-schoolteachers-lesson): An exploration of the hidden lessons we learn in school and why it shapes how we act in much of our lives.
 
-Each week, I send out 1 email for leaders, entrepreneurs, makers, artists, teachers, thinkers, and doers. It’s an inquiry into your own experiences to become a more balanced person.
+## Popular Resources
 
-I believe that brain food alone cannot nourish life. Let's have a heart to heart.
+[The Principles of Organizational Breakthroughs:A Practical Guide for Leaders](https://www.slideshare.net/dpvtank/principles-of-breakthrough-a-practical-guide-for-leaders)
 
-<center><iframe src="https://dtank.substack.com/embed" width="480" height="320" frameborder="0" scrolling="no"></iframe></center>
+These Principles are distilled down based on the best practices of the most effective executives, consultants, and leaders in the world. They are just as applicable to marketing, sales, operations, as they do to human problems. You will find the definitions here will guide your thinking No matter how complex, immediate, or aggravating the challenge, this proven set of Principles can be applied to solve it. They are tested in the real world not just by me but by the hundreds of professionals who have created massive breakthroughs in their organizations through it. Don’t let their simplicity fool you. If they seem like common sense, ask yourself: "have I applied this?"
 
+[The Simple Book of Marketing & Sales](/simple-book/)
+
+This is a long yet immediately applicable guide for small businesses that want to grow their business in low cost and effective ways. It is 16,000+ words of pure actionable insight delivered in a structured way.
 
 ## About Me
 
-In case you're wondering how to pronounce my name, here's an audio:
-<figure>
-     <audio
-        controls
-        src="/assets/pronounciation.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-
 More than ever, there is a disconnect between business & people. Leadership and staff. Parents from their kids. What we need is a Dharmic Lens again to remake our businesses, societies, & families. It is a millennia old way of viewing ourselves, the people around us, and a way to see, think and live in this world.
 
-By day, my primary work is in sales and marketing strategy. I’ve spent 6+ years doing sales and marketing in Fortune 500 companies as well as startups. I also consult with and advise startups to do the same. You can see a more professional breakdown of my work on [LinkedIn](https://www.linkedin.com/in/dtankco).
+I’ve spent ~10 years doing sales and marketing in Fortune 500 companies as well as startups, small business and law firms. I also consult with and advise startups to do the same. You can see a more professional breakdown of my work on [LinkedIn](https://www.linkedin.com/in/dtankco)..
 
 In the rest of my time, I write about connection, culture, spirituality, and its application in personal lives, business and organizations.
 
