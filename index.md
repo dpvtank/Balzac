@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: A Dharmic Lens of Growth
 image:
   feature: null
