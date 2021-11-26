@@ -18,11 +18,6 @@ owner:
   location:       "Dallas, TX"
   # Plug in your disqus shortname!
   
-plugins:
-  - jekyll-remote-theme
-  
-remote_theme:  daattali/beautiful-jekyll
-
 tools:
   standards:      "HTML, SCSS, Jekyll"
   software:       "git"
