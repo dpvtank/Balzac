@@ -19,7 +19,7 @@ owner:
   # Plug in your disqus shortname!
   
   
-remote_theme: poole/poole
+remote_theme:  daattali/beautiful-jekyll
 
 tools:
   standards:      "HTML, SCSS, Jekyll"
